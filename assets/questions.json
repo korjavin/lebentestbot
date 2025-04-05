@@ -1,0 +1,4567 @@
+[
+  {
+    "Number": -1,
+    "Question": "[IMAGE]",
+    "Image": "images/image_0.png",
+    "Answers": [],
+    "Right answer": -1,
+    "Category": "Nationwide"
+  },
+  {
+    "Number": -1,
+    "Question": "[IMAGE]",
+    "Image": "images/image_1.png",
+    "Answers": [],
+    "Right answer": -1,
+    "Category": "Nationwide"
+  },
+  {
+    "Number": 1,
+    "Question": "In Deutschland dürfen Menschen offen etwas gegen die Regierung sagen, weil …",
+    "Answers": [
+      "hier Religionsfreiheit gilt.",
+      "die Menschen Steuern zahlen.",
+      "die Menschen das Wahlrecht haben.",
+      "hier Meinungsfreiheit gilt."
+    ],
+    "Right answer": -1,
+    "Category": "Nationwide"
+  },
+  {
+    "Number": 2,
+    "Question": "In Deutschland können Eltern bis zum 14. Lebensjahr ihres Kindes entscheiden, ob es in der Schule am …",
+    "Answers": [
+      "Geschichtsunterricht teilnimmt.",
+      "Religionsunterricht teilnimmt.",
+      "Politikunterricht teilnimmt.",
+      "Sprachunterricht teilnimmt."
+    ],
+    "Right answer": -1,
+    "Category": "Nationwide"
+  },
+  {
+    "Number": 3,
+    "Question": "Deutschland ist ein Rechtsstaat. Was ist damit gemeint? Alle Einwohnerinnen/Einwohner und der Staat müssen sich an die Gesetze halten.",
+    "Answers": [
+      "Alle Einwohnerinnen/Einwohner und der Staat müssen sich an die Gesetze \nhalten.",
+      "Der Staat muss sich nicht an die Gesetze halten.",
+      "Nur Deutsche müssen die Gesetze befolgen.",
+      "Die Gerichte machen die Gesetze."
+    ],
+    "Right answer": -1,
+    "Category": "Nationwide"
+  },
+  {
+    "Number": -1,
+    "Question": "[IMAGE]",
+    "Image": "images/image_2.png",
+    "Answers": [],
+    "Right answer": -1,
+    "Category": "Nationwide"
+  },
+  {
+    "Number": 4,
+    "Question": "Welches Recht gehört zu den Grundrechten in Deutschland?",
+    "Answers": [
+      "Waffenbesitz",
+      "Faustrecht",
+      "Meinungsfreiheit",
+      "Selbstjustiz"
+    ],
+    "Right answer": -1,
+    "Category": "Nationwide"
+  },
+  {
+    "Number": 5,
+    "Question": "Wahlen in Deutschland sind frei. Was bedeutet das? Man darf Geld annehmen, wenn man dafür eine bestimmte Kandidatin/einen bestimmten Kandidaten wählt.  Die Wählerin/der Wähler darf bei der Wahl weder beeinflusst noch zu einer bestimmten Stimmabgabe gezwungen werden und keine Nachteile durch die Wahl haben.",
+    "Answers": [
+      "Man darf Geld annehmen, wenn man dafür eine bestimmte Kandidatin/einen \nbestimmten Kandidaten wählt.",
+      "Nur Personen, die noch nie im Gefängnis waren, dürfen wählen.",
+      "Die Wählerin/der Wähler darf bei der Wahl weder beeinflusst noch zu einer \nbestimmten Stimmabgabe gezwungen werden und keine Nachteile durch die \nWahl haben.",
+      "Alle wahlberechtigten Personen müssen wählen."
+    ],
+    "Right answer": -1,
+    "Category": "Nationwide"
+  },
+  {
+    "Number": 6,
+    "Question": "Wie heißt die deutsche Verfassung?",
+    "Answers": [
+      "Volksgesetz",
+      "Bundesgesetz",
+      "Deutsches Gesetz",
+      "Grundgesetz"
+    ],
+    "Right answer": -1,
+    "Category": "Nationwide"
+  },
+  {
+    "Number": -1,
+    "Question": "[IMAGE]",
+    "Image": "images/image_3.png",
+    "Answers": [],
+    "Right answer": -1,
+    "Category": "Nationwide"
+  },
+  {
+    "Number": 7,
+    "Question": "Welches Recht gehört zu den Grundrechten, die nach der deutschen Verfassung garantiert werden? Das Recht auf …",
+    "Answers": [
+      "Glaubens- und Gewissensfreiheit",
+      "Unterhaltung",
+      "Arbeit",
+      "Wohnung"
+    ],
+    "Right answer": -1,
+    "Category": "Nationwide"
+  },
+  {
+    "Number": 8,
+    "Question": "Was steht nicht im Grundgesetz von Deutschland?",
+    "Answers": [
+      "Die Würde des Menschen ist unantastbar.",
+      "Alle sollen gleich viel Geld haben.",
+      "Jeder Mensch darf seine Meinung sagen.",
+      "Alle sind vor dem Gesetz gleich."
+    ],
+    "Right answer": -1,
+    "Category": "Nationwide"
+  },
+  {
+    "Number": 9,
+    "Question": "Welches Grundrecht gilt in Deutschland nur für Ausländerinnen/Ausländer? Das Grundrecht auf …",
+    "Answers": [
+      "Schutz der Familie",
+      "Menschenwürde",
+      "Asyl",
+      "Meinungsfreiheit"
+    ],
+    "Right answer": -1,
+    "Category": "Nationwide"
+  },
+  {
+    "Number": -1,
+    "Question": "[IMAGE]",
+    "Image": "images/image_4.png",
+    "Answers": [],
+    "Right answer": -1,
+    "Category": "Nationwide"
+  },
+  {
+    "Number": 10,
+    "Question": "Was ist mit dem deutschen Grundgesetz vereinbar?",
+    "Answers": [
+      "die Prügelstrafe",
+      "die Folter",
+      "die Todesstrafe",
+      "die Geldstrafe"
+    ],
+    "Right answer": -1,
+    "Category": "Nationwide"
+  },
+  {
+    "Number": 11,
+    "Question": "Wie wird die Verfassung der Bundesrepublik Deutschland genannt?",
+    "Answers": [
+      "Grundgesetz",
+      "Bundesverfassung",
+      "Gesetzbuch",
+      "Verfassungsvertrag"
+    ],
+    "Right answer": -1,
+    "Category": "Nationwide"
+  },
+  {
+    "Number": 12,
+    "Question": "Eine Partei im Deutschen Bundestag will die Pressefreiheit abschaffen. Ist das möglich?   Nein, denn die Pressefreiheit ist ein Grundrecht. Sie kann nicht abgeschafft werden.",
+    "Answers": [
+      "Ja, wenn mehr als die Hälfte der Abgeordneten im Bundestag dafür sind.",
+      "Ja, aber dazu müssen zwei Drittel der Abgeordneten im Bundestag dafür sein.",
+      "Nein, denn die Pressefreiheit ist ein Grundrecht. Sie kann nicht abgeschafft \nwerden.",
+      "Nein, denn nur der Bundesrat kann die Pressefreiheit abschaffen."
+    ],
+    "Right answer": -1,
+    "Category": "Nationwide"
+  },
+  {
+    "Number": -1,
+    "Question": "[IMAGE]",
+    "Image": "images/image_5.png",
+    "Answers": [],
+    "Right answer": -1,
+    "Category": "Nationwide"
+  },
+  {
+    "Number": 13,
+    "Question": "Im Parlament steht der Begriff \"Opposition\" für …    alle Abgeordneten, die nicht zu der Regierungspartei/den Regierungsparteien gehören.",
+    "Answers": [
+      "die regierenden Parteien.",
+      "die Fraktion mit den meisten Abgeordneten.",
+      "alle Parteien, die bei der letzten Wahl die 5%-Hürde erreichen konnten.",
+      "alle Abgeordneten, die nicht zu der Regierungspartei/den Regierungsparteien \ngehören."
+    ],
+    "Right answer": -1,
+    "Category": "Nationwide"
+  },
+  {
+    "Number": 14,
+    "Question": "Meinungsfreiheit in Deutschland heißt, dass ich … Passanten auf der Straße beschimpfen darf. meine Meinung in Leserbriefen äußern kann. Nazi-, Hamas- oder Islamischer Staat-Symbole öffentlich tragen darf. meine Meinung nur dann äußern darf, solange ich der Regierung nicht widerspreche.",
+    "Answers": [
+      "",
+      "",
+      "",
+      "Passanten auf der Straße beschimpfen darf. \nmeine Meinung in Leserbriefen äußern kann. \nNazi-, Hamas- oder Islamischer Staat-Symbole öffentlich tragen darf. \nmeine Meinung nur dann äußern darf, solange ich der Regierung nicht \nwiderspreche."
+    ],
+    "Right answer": -1,
+    "Category": "Nationwide"
+  },
+  {
+    "Number": 15,
+    "Question": "Was verbietet das deutsche Grundgesetz?",
+    "Answers": [
+      "Militärdienst",
+      "Zwangsarbeit",
+      "freie Berufswahl",
+      "Arbeit im Ausland"
+    ],
+    "Right answer": -1,
+    "Category": "Nationwide"
+  },
+  {
+    "Number": -1,
+    "Question": "[IMAGE]",
+    "Image": "images/image_6.png",
+    "Answers": [],
+    "Right answer": -1,
+    "Category": "Nationwide"
+  },
+  {
+    "Number": 16,
+    "Question": "Wann ist die Meinungsfreiheit in Deutschland eingeschränkt? bei der öffentlichen Verbreitung falscher Behauptungen über einzelne Personen",
+    "Answers": [
+      "bei der öffentlichen Verbreitung falscher Behauptungen über einzelne \nPersonen",
+      "bei Meinungsäußerungen über die Bundesregierung",
+      "bei Diskussionen über Religionen",
+      "bei Kritik am Staat"
+    ],
+    "Right answer": -1,
+    "Category": "Nationwide"
+  },
+  {
+    "Number": 17,
+    "Question": "Die deutschen Gesetze verbieten …",
+    "Answers": [
+      "Meinungsfreiheit der Einwohnerinnen und Einwohner.",
+      "Petitionen der Bürgerinnen und Bürger.",
+      "Versammlungsfreiheit der Einwohnerinnen und Einwohner.",
+      "Ungleichbehandlung der Bürgerinnen und Bürger durch den Staat."
+    ],
+    "Right answer": -1,
+    "Category": "Nationwide"
+  },
+  {
+    "Number": 18,
+    "Question": "Welches Grundrecht ist in Artikel 1 des Grundgesetzes der Bundesrepublik Deutschland garantiert?",
+    "Answers": [
+      "die Unantastbarkeit der Menschenwürde",
+      "das Recht auf Leben",
+      "Religionsfreiheit",
+      "Meinungsfreiheit"
+    ],
+    "Right answer": -1,
+    "Category": "Nationwide"
+  },
+  {
+    "Number": -1,
+    "Question": "[IMAGE]",
+    "Image": "images/image_7.png",
+    "Answers": [],
+    "Right answer": -1,
+    "Category": "Nationwide"
+  },
+  {
+    "Number": 19,
+    "Question": "Was versteht man unter dem Recht der \"Freizügigkeit\" in Deutschland?",
+    "Answers": [
+      "Man darf sich seinen Wohnort selbst aussuchen.",
+      "Man kann seinen Beruf wechseln.",
+      "Man darf sich für eine andere Religion entscheiden.",
+      "Man darf sich in der Öffentlichkeit nur leicht bekleidet bewegen."
+    ],
+    "Right answer": -1,
+    "Category": "Nationwide"
+  },
+  {
+    "Number": 20,
+    "Question": "Eine Partei in Deutschland verfolgt das Ziel, eine Diktatur zu errichten. Sie ist dann …",
+    "Answers": [
+      "tolerant.",
+      "rechtsstaatlich orientiert.",
+      "gesetzestreu.",
+      "verfassungswidrig."
+    ],
+    "Right answer": -1,
+    "Category": "Nationwide"
+  },
+  {
+    "Number": -1,
+    "Question": "[IMAGE]",
+    "Image": "images/image_8.png",
+    "Answers": [],
+    "Right answer": -1,
+    "Category": "Nationwide"
+  },
+  {
+    "Number": -1,
+    "Question": "[IMAGE]",
+    "Image": "images/image_9.png",
+    "Answers": [],
+    "Right answer": -1,
+    "Category": "Nationwide"
+  },
+  {
+    "Number": -1,
+    "Question": "[IMAGE]",
+    "Image": "images/image_10.png",
+    "Answers": [],
+    "Right answer": -1,
+    "Category": "Nationwide"
+  },
+  {
+    "Number": -1,
+    "Question": "[IMAGE]",
+    "Image": "images/image_11.png",
+    "Answers": [],
+    "Right answer": -1,
+    "Category": "Nationwide"
+  },
+  {
+    "Number": -1,
+    "Question": "[IMAGE]",
+    "Image": "images/image_12.png",
+    "Answers": [],
+    "Right answer": -1,
+    "Category": "Nationwide"
+  },
+  {
+    "Number": 21,
+    "Question": "Welches ist das Wappen der Bundesrepublik Deutschland?",
+    "Answers": [
+      "Bild 1",
+      "Bild 2",
+      "Bild 3",
+      "Bild 4"
+    ],
+    "Right answer": -1,
+    "Category": "Nationwide"
+  },
+  {
+    "Number": 22,
+    "Question": "Was für eine Staatsform hat Deutschland?",
+    "Answers": [
+      "Monarchie",
+      "Diktatur",
+      "Republik",
+      "Fürstentum"
+    ],
+    "Right answer": -1,
+    "Category": "Nationwide"
+  },
+  {
+    "Number": -1,
+    "Question": "[IMAGE]",
+    "Image": "images/image_13.png",
+    "Answers": [],
+    "Right answer": -1,
+    "Category": "Nationwide"
+  },
+  {
+    "Number": 23,
+    "Question": "In Deutschland sind die meisten Erwerbstätigen …",
+    "Answers": [
+      "in kleinen Familienunternehmen beschäftigt.",
+      "ehrenamtlich für ein Bundesland tätig.",
+      "selbstständig mit einer eigenen Firma tätig.",
+      "bei einer Firma oder Behörde beschäftigt."
+    ],
+    "Right answer": -1,
+    "Category": "Nationwide"
+  },
+  {
+    "Number": 24,
+    "Question": "Wie viele Bundesländer hat die Bundesrepublik Deutschland?",
+    "Answers": [
+      "14",
+      "15",
+      "16",
+      "17"
+    ],
+    "Right answer": -1,
+    "Category": "Nationwide"
+  },
+  {
+    "Number": 25,
+    "Question": "Was ist kein Bundesland der Bundesrepublik Deutschland?",
+    "Answers": [
+      "Elsass-Lothringen",
+      "Nordrhein-Westfalen",
+      "Mecklenburg-Vorpommern",
+      "Sachsen-Anhalt"
+    ],
+    "Right answer": -1,
+    "Category": "Nationwide"
+  },
+  {
+    "Number": -1,
+    "Question": "[IMAGE]",
+    "Image": "images/image_14.png",
+    "Answers": [],
+    "Right answer": -1,
+    "Category": "Nationwide"
+  },
+  {
+    "Number": 26,
+    "Question": "Deutschland ist …",
+    "Answers": [
+      "eine kommunistische Republik.",
+      "ein demokratischer und sozialer Bundesstaat.",
+      "eine kapitalistische und soziale Monarchie.",
+      "ein sozialer und sozialistischer Bundesstaat."
+    ],
+    "Right answer": -1,
+    "Category": "Nationwide"
+  },
+  {
+    "Number": 27,
+    "Question": "Deutschland ist …",
+    "Answers": [
+      "ein sozialistischer Staat.",
+      "ein Bundesstaat.",
+      "eine Diktatur.",
+      "eine Monarchie."
+    ],
+    "Right answer": -1,
+    "Category": "Nationwide"
+  },
+  {
+    "Number": 28,
+    "Question": "Wer wählt in Deutschland die Abgeordneten zum Bundestag?",
+    "Answers": [
+      "das Militär",
+      "die Wirtschaft",
+      "das wahlberechtigte Volk",
+      "die Verwaltung"
+    ],
+    "Right answer": -1,
+    "Category": "Nationwide"
+  },
+  {
+    "Number": -1,
+    "Question": "[IMAGE]",
+    "Image": "images/image_15.png",
+    "Answers": [],
+    "Right answer": -1,
+    "Category": "Nationwide"
+  },
+  {
+    "Number": 29,
+    "Question": "Welches Tier ist das Wappentier der Bundesrepublik Deutschland?",
+    "Answers": [
+      "Löwe",
+      "Adler",
+      "Bär",
+      "Pferd"
+    ],
+    "Right answer": -1,
+    "Category": "Nationwide"
+  },
+  {
+    "Number": 30,
+    "Question": "Was ist kein Merkmal unserer Demokratie?",
+    "Answers": [
+      "regelmäßige Wahlen",
+      "Pressezensur",
+      "Meinungsfreiheit",
+      "verschiedene Parteien"
+    ],
+    "Right answer": -1,
+    "Category": "Nationwide"
+  },
+  {
+    "Number": 31,
+    "Question": "Die Zusammenarbeit von Parteien zur Bildung einer Regierung nennt man in Deutschland …",
+    "Answers": [
+      "Einheit.",
+      "Koalition.",
+      "Ministerium.",
+      "Fraktion."
+    ],
+    "Right answer": -1,
+    "Category": "Nationwide"
+  },
+  {
+    "Number": -1,
+    "Question": "[IMAGE]",
+    "Image": "images/image_16.png",
+    "Answers": [],
+    "Right answer": -1,
+    "Category": "Nationwide"
+  },
+  {
+    "Number": 32,
+    "Question": "Was ist keine staatliche Gewalt in Deutschland?",
+    "Answers": [
+      "Gesetzgebung",
+      "Regierung",
+      "Presse",
+      "Rechtsprechung"
+    ],
+    "Right answer": -1,
+    "Category": "Nationwide"
+  },
+  {
+    "Number": 33,
+    "Question": "Welche Aussage ist richtig? In Deutschland …",
+    "Answers": [
+      "sind Staat und Religionsgemeinschaften voneinander getrennt.",
+      "bilden die Religionsgemeinschaften den Staat.",
+      "ist der Staat abhängig von den Religionsgemeinschaften.",
+      "bilden Staat und Religionsgemeinschaften eine Einheit."
+    ],
+    "Right answer": -1,
+    "Category": "Nationwide"
+  },
+  {
+    "Number": 34,
+    "Question": "Was ist Deutschland nicht?",
+    "Answers": [
+      "eine Demokratie",
+      "ein Rechtsstaat",
+      "eine Monarchie",
+      "ein Sozialstaat"
+    ],
+    "Right answer": -1,
+    "Category": "Nationwide"
+  },
+  {
+    "Number": -1,
+    "Question": "[IMAGE]",
+    "Image": "images/image_17.png",
+    "Answers": [],
+    "Right answer": -1,
+    "Category": "Nationwide"
+  },
+  {
+    "Number": 35,
+    "Question": "Womit finanziert der deutsche Staat die Sozialversicherung?",
+    "Answers": [
+      "Kirchensteuer",
+      "Sozialabgaben",
+      "Spendengeldern",
+      "Vereinsbeiträgen"
+    ],
+    "Right answer": -1,
+    "Category": "Nationwide"
+  },
+  {
+    "Number": 36,
+    "Question": "Welche Maßnahme schafft in Deutschland soziale Sicherheit?",
+    "Answers": [
+      "die Krankenversicherung",
+      "die Autoversicherung",
+      "die Gebäudeversicherung",
+      "die Haftpflichtversicherung"
+    ],
+    "Right answer": -1,
+    "Category": "Nationwide"
+  },
+  {
+    "Number": 37,
+    "Question": "Wie werden die Regierungschefinnen/Regierungschefs der meisten Bundesländer in Deutschland genannt?",
+    "Answers": [
+      "Erste Ministerin/Erster Minister",
+      "Premierministerin/Premierminister",
+      "Senatorin/Senator",
+      "Ministerpräsidentin/Ministerpräsident"
+    ],
+    "Right answer": -1,
+    "Category": "Nationwide"
+  },
+  {
+    "Number": -1,
+    "Question": "[IMAGE]",
+    "Image": "images/image_18.png",
+    "Answers": [],
+    "Right answer": -1,
+    "Category": "Nationwide"
+  },
+  {
+    "Number": 38,
+    "Question": "Die Bundesrepublik Deutschland ist ein demokratischer und sozialer …",
+    "Answers": [
+      "Staatenverbund.",
+      "Bundesstaat.",
+      "Staatenbund.",
+      "Zentralstaat."
+    ],
+    "Right answer": -1,
+    "Category": "Nationwide"
+  },
+  {
+    "Number": 39,
+    "Question": "Was hat jedes deutsche Bundesland?",
+    "Answers": [
+      "eine eigene Außenministerin/einen eigenen Außenminister",
+      "eine eigene Währung",
+      "eine eigene Armee",
+      "eine eigene Regierung"
+    ],
+    "Right answer": -1,
+    "Category": "Nationwide"
+  },
+  {
+    "Number": 40,
+    "Question": "Mit welchen Worten beginnt die deutsche Nationalhymne?",
+    "Answers": [
+      "Völker, hört die Signale …",
+      "Einigkeit und Recht und Freiheit …",
+      "Freude schöner Götterfunken …",
+      "Deutschland einig Vaterland …"
+    ],
+    "Right answer": -1,
+    "Category": "Nationwide"
+  },
+  {
+    "Number": -1,
+    "Question": "[IMAGE]",
+    "Image": "images/image_19.png",
+    "Answers": [],
+    "Right answer": -1,
+    "Category": "Nationwide"
+  },
+  {
+    "Number": 41,
+    "Question": "Warum gibt es in einer Demokratie mehr als eine Partei? weil dadurch die unterschiedlichen Meinungen der Bürgerinnen und Bürger vertreten werden",
+    "Answers": [
+      "weil dadurch die unterschiedlichen Meinungen der Bürgerinnen und Bürger \nvertreten werden",
+      "damit Bestechung in der Politik begrenzt wird",
+      "um politische Demonstrationen zu verhindern",
+      "um wirtschaftlichen Wettbewerb anzuregen"
+    ],
+    "Right answer": -1,
+    "Category": "Nationwide"
+  },
+  {
+    "Number": 42,
+    "Question": "Wer beschließt in Deutschland ein neues Gesetz?",
+    "Answers": [
+      "die Regierung",
+      "das Parlament",
+      "die Gerichte",
+      "die Polizei"
+    ],
+    "Right answer": -1,
+    "Category": "Nationwide"
+  },
+  {
+    "Number": 43,
+    "Question": "Wann kann in Deutschland eine Partei verboten werden?",
+    "Answers": [
+      "wenn ihr Wahlkampf zu teuer ist",
+      "wenn sie gegen die Verfassung kämpft",
+      "wenn sie Kritik am Staatsoberhaupt äußert",
+      "wenn ihr Programm eine neue Richtung vorschlägt"
+    ],
+    "Right answer": -1,
+    "Category": "Nationwide"
+  },
+  {
+    "Number": -1,
+    "Question": "[IMAGE]",
+    "Image": "images/image_20.png",
+    "Answers": [],
+    "Right answer": -1,
+    "Category": "Nationwide"
+  },
+  {
+    "Number": 44,
+    "Question": "Wen kann man als Bürgerin/Bürger in Deutschland nicht direkt wählen?",
+    "Answers": [
+      "Abgeordnete des EU-Parlaments",
+      "Die Bundespräsidentin/den Bundespräsidenten",
+      "Landtagsabgeordnete",
+      "Bundestagsabgeordnete"
+    ],
+    "Right answer": -1,
+    "Category": "Nationwide"
+  },
+  {
+    "Number": 45,
+    "Question": "Zu welcher Versicherung gehört die Pflegeversicherung?",
+    "Answers": [
+      "Sozialversicherung",
+      "Unfallversicherung",
+      "Hausratsversicherung",
+      "Haftpflicht- und Feuerversicherung"
+    ],
+    "Right answer": -1,
+    "Category": "Nationwide"
+  },
+  {
+    "Number": -1,
+    "Question": "[IMAGE]",
+    "Image": "images/image_21.png",
+    "Answers": [],
+    "Right answer": -1,
+    "Category": "Nationwide"
+  },
+  {
+    "Number": 48,
+    "Question": "Welches Organ gehört nicht zu den Verfassungsorganen Deutschlands?",
+    "Answers": [
+      "der Bundesrat",
+      "die Bundespräsidentin/der Bundespräsident",
+      "die Bürgerversammlung",
+      "die Regierung"
+    ],
+    "Right answer": -1,
+    "Category": "Nationwide"
+  },
+  {
+    "Number": 49,
+    "Question": "Wer bestimmt in Deutschland die Schulpolitik?",
+    "Answers": [
+      "die Lehrer und Lehrerinnen",
+      "die Bundesländer",
+      "das Familienministerium",
+      "die Universitäten"
+    ],
+    "Right answer": -1,
+    "Category": "Nationwide"
+  },
+  {
+    "Number": -1,
+    "Question": "[IMAGE]",
+    "Image": "images/image_22.png",
+    "Answers": [],
+    "Right answer": -1,
+    "Category": "Nationwide"
+  },
+  {
+    "Number": 50,
+    "Question": "Die Wirtschaftsform in Deutschland nennt man …",
+    "Answers": [
+      "freie Zentralwirtschaft.",
+      "soziale Marktwirtschaft.",
+      "gelenkte Zentralwirtschaft.",
+      "Planwirtschaft."
+    ],
+    "Right answer": -1,
+    "Category": "Nationwide"
+  },
+  {
+    "Number": 51,
+    "Question": "Zu einem demokratischen Rechtsstaat gehört es nicht, dass …",
+    "Answers": [
+      "Menschen sich kritisch über die Regierung äußern können.",
+      "Bürger friedlich demonstrieren gehen dürfen.",
+      "Menschen von einer Privatpolizei ohne Grund verhaftet werden.",
+      "jemand ein Verbrechen begeht und deshalb verhaftet wird."
+    ],
+    "Right answer": -1,
+    "Category": "Nationwide"
+  },
+  {
+    "Number": 52,
+    "Question": "Was bedeutet \"Volkssouveränität\"? Alle Staatsgewalt geht vom ...",
+    "Answers": [
+      "Volke aus.",
+      "Bundestag aus.",
+      "preußischen König aus.",
+      "Bundesverfassungsgericht aus."
+    ],
+    "Right answer": -1,
+    "Category": "Nationwide"
+  },
+  {
+    "Number": -1,
+    "Question": "[IMAGE]",
+    "Image": "images/image_23.png",
+    "Answers": [],
+    "Right answer": -1,
+    "Category": "Nationwide"
+  },
+  {
+    "Number": 53,
+    "Question": "Was bedeutet \"Rechtsstaat\" in Deutschland?",
+    "Answers": [
+      "Der Staat hat Recht.",
+      "Es gibt nur rechte Parteien.",
+      "Die Bürgerinnen und Bürger entscheiden über Gesetze.",
+      "Der Staat muss die Gesetze einhalten."
+    ],
+    "Right answer": -1,
+    "Category": "Nationwide"
+  },
+  {
+    "Number": 54,
+    "Question": "Was ist keine staatliche Gewalt in Deutschland?",
+    "Answers": [
+      "Legislative",
+      "Judikative",
+      "Exekutive",
+      "Direktive"
+    ],
+    "Right answer": -1,
+    "Category": "Nationwide"
+  },
+  {
+    "Number": -1,
+    "Question": "[IMAGE]",
+    "Image": "images/image_24.png",
+    "Answers": [],
+    "Right answer": -1,
+    "Category": "Nationwide"
+  },
+  {
+    "Number": -1,
+    "Question": "[IMAGE]",
+    "Image": "images/image_25.png",
+    "Answers": [],
+    "Right answer": -1,
+    "Category": "Nationwide"
+  },
+  {
+    "Number": 55,
+    "Question": "Was zeigt dieses Bild?  © Deutscher Bundestag/Achim Melde",
+    "Answers": [
+      "den Bundestagssitz in Berlin",
+      "das Bundesverfassungsgericht in Karlsruhe",
+      "das Bundesratsgebäude in Berlin",
+      "das Bundeskanzleramt in Berlin"
+    ],
+    "Right answer": -1,
+    "Category": "Nationwide"
+  },
+  {
+    "Number": 56,
+    "Question": "Welches Amt gehört in Deutschland zur Gemeindeverwaltung?",
+    "Answers": [
+      "Pfarramt",
+      "Ordnungsamt",
+      "Finanzamt",
+      "Auswärtiges Amt"
+    ],
+    "Right answer": -1,
+    "Category": "Nationwide"
+  },
+  {
+    "Number": -1,
+    "Question": "[IMAGE]",
+    "Image": "images/image_26.png",
+    "Answers": [],
+    "Right answer": -1,
+    "Category": "Nationwide"
+  },
+  {
+    "Number": 57,
+    "Question": "Wer wird meistens zur Präsidentin/zum Präsidenten des Deutschen Bundestages gewählt?",
+    "Answers": [
+      "die/der älteste Abgeordnete im Parlament",
+      "die Ministerpräsidentin/der Ministerpräsident des größten Bundeslandes",
+      "eine ehemalige Bundeskanzlerin/ein ehemaliger Bundeskanzler",
+      "eine Abgeordnete/ein Abgeordneter der stärksten Fraktion"
+    ],
+    "Right answer": -1,
+    "Category": "Nationwide"
+  },
+  {
+    "Number": 58,
+    "Question": "Wer ernennt in Deutschland die Ministerinnen/die Minister der Bundesregierung?",
+    "Answers": [
+      "die Präsidentin/der Präsident des Bundesverfassungsgerichtes",
+      "die Bundespräsidentin/der Bundespräsident",
+      "die Bundesratspräsidentin/der Bundesratspräsident",
+      "die Bundestagspräsidentin/der Bundestagspräsident"
+    ],
+    "Right answer": -1,
+    "Category": "Nationwide"
+  },
+  {
+    "Number": 59,
+    "Question": "Vor wie vielen Jahren gab es erstmals eine jüdische Gemeinde auf dem Gebiet des heutigen Deutschlands?",
+    "Answers": [
+      "vor etwa 300 Jahren",
+      "vor etwa 700 Jahren",
+      "vor etwa 1150 Jahren",
+      "vor etwa 1700 Jahren"
+    ],
+    "Right answer": -1,
+    "Category": "Nationwide"
+  },
+  {
+    "Number": -1,
+    "Question": "[IMAGE]",
+    "Image": "images/image_27.png",
+    "Answers": [],
+    "Right answer": -1,
+    "Category": "Nationwide"
+  },
+  {
+    "Number": 60,
+    "Question": "In Deutschland gehören der Bundestag und der Bundesrat zur …",
+    "Answers": [
+      "Exekutive.",
+      "Legislative.",
+      "Direktive.",
+      "Judikative."
+    ],
+    "Right answer": -1,
+    "Category": "Nationwide"
+  },
+  {
+    "Number": 61,
+    "Question": "Was bedeutet \"Volkssouveränität\"?   Die Interessenverbände üben die Souveränität zusammen mit der Regierung aus.",
+    "Answers": [
+      "Die Königin/der König herrscht über das Volk.",
+      "Das Bundesverfassungsgericht steht über der Verfassung.",
+      "Die Interessenverbände üben die Souveränität zusammen mit der Regierung \naus.",
+      "Die Staatsgewalt geht vom Volke aus."
+    ],
+    "Right answer": -1,
+    "Category": "Nationwide"
+  },
+  {
+    "Number": 62,
+    "Question": "Wenn das Parlament eines deutschen Bundeslandes gewählt wird, nennt man das …",
+    "Answers": [
+      "Kommunalwahl",
+      "Landtagswahl",
+      "Europawahl",
+      "Bundestagswahl"
+    ],
+    "Right answer": -1,
+    "Category": "Nationwide"
+  },
+  {
+    "Number": -1,
+    "Question": "[IMAGE]",
+    "Image": "images/image_28.png",
+    "Answers": [],
+    "Right answer": -1,
+    "Category": "Nationwide"
+  },
+  {
+    "Number": 63,
+    "Question": "Was gehört in Deutschland nicht zur Exekutive?",
+    "Answers": [
+      "die Polizei",
+      "die Gerichte",
+      "das Finanzamt",
+      "die Ministerien"
+    ],
+    "Right answer": -1,
+    "Category": "Nationwide"
+  },
+  {
+    "Number": 64,
+    "Question": "Die Bundesrepublik Deutschland ist heute gegliedert in …",
+    "Answers": [
+      "vier Besatzungszonen.",
+      "einen Oststaat und einen Weststaat.",
+      "16 Kantone.",
+      "Bund, Länder und Kommunen."
+    ],
+    "Right answer": -1,
+    "Category": "Nationwide"
+  },
+  {
+    "Number": 65,
+    "Question": "Es gehört nicht zu den Aufgaben des Deutschen Bundestages, …",
+    "Answers": [
+      "Gesetze zu entwerfen.",
+      "die Bundesregierung zu kontrollieren.",
+      "die Bundeskanzlerin/den Bundeskanzler zu wählen.",
+      "das Bundeskabinett zu bilden."
+    ],
+    "Right answer": -1,
+    "Category": "Nationwide"
+  },
+  {
+    "Number": -1,
+    "Question": "[IMAGE]",
+    "Image": "images/image_29.png",
+    "Answers": [],
+    "Right answer": -1,
+    "Category": "Nationwide"
+  },
+  {
+    "Number": 66,
+    "Question": "Welche Städte haben die größten jüdischen Gemeinden in Deutschland?",
+    "Answers": [
+      "Berlin und München",
+      "Hamburg und Essen",
+      "Nürnberg und Stuttgart",
+      "Worms und Speyer"
+    ],
+    "Right answer": -1,
+    "Category": "Nationwide"
+  },
+  {
+    "Number": 68,
+    "Question": "Warum kontrolliert der Staat in Deutschland das Schulwesen?",
+    "Answers": [
+      "weil es in Deutschland nur staatliche Schulen gibt",
+      "weil alle Schülerinnen und Schüler einen Schulabschluss haben müssen",
+      "weil es in den Bundesländern verschiedene Schulen gibt",
+      "weil es nach dem Grundgesetz seine"
+    ],
+    "Right answer": -1,
+    "Category": "Nationwide"
+  },
+  {
+    "Number": -1,
+    "Question": "[IMAGE]",
+    "Image": "images/image_30.png",
+    "Answers": [],
+    "Right answer": -1,
+    "Category": "Nationwide"
+  },
+  {
+    "Number": 69,
+    "Question": "Die Bundesrepublik Deutschland hat einen dreistufigen Verwaltungsaufbau. Wie heißt die unterste politische Stufe?",
+    "Answers": [
+      "Stadträte",
+      "Landräte",
+      "Gemeinden",
+      "Bezirksämter"
+    ],
+    "Right answer": -1,
+    "Category": "Nationwide"
+  },
+  {
+    "Number": -1,
+    "Question": "[IMAGE]",
+    "Image": "images/image_31.png",
+    "Answers": [],
+    "Right answer": -1,
+    "Category": "Nationwide"
+  },
+  {
+    "Number": -1,
+    "Question": "[IMAGE]",
+    "Image": "images/image_32.png",
+    "Answers": [],
+    "Right answer": -1,
+    "Category": "Nationwide"
+  },
+  {
+    "Number": 70,
+    "Question": "Der deutsche Bundespräsident Gustav Heinemann gibt Helmut Schmidt 1974 die Ernennungsurkunde zum deutschen Bundeskanzler. Was gehört zu den Aufgaben der deutschen Bundespräsidentin/des deutschen Bundespräsidenten?  © Bundesregierung/Engelbert Reineke",
+    "Answers": [
+      "Sie/Er führt die Regierungsgeschäfte.",
+      "Sie/Er kontrolliert die Regierungspartei.",
+      "Sie/Er wählt die Ministerinnen/Minister aus.",
+      "Sie/Er schlägt die Kanzlerin/den Kanzler zur Wahl vor."
+    ],
+    "Right answer": -1,
+    "Category": "Nationwide"
+  },
+  {
+    "Number": -1,
+    "Question": "[IMAGE]",
+    "Image": "images/image_33.png",
+    "Answers": [],
+    "Right answer": -1,
+    "Category": "Nationwide"
+  },
+  {
+    "Number": 71,
+    "Question": "Wo hält sich die deutsche Bundeskanzlerin/der deutsche Bundeskanzler am häufigsten auf? Am häufigsten ist sie/er …  auf Schloss Meseberg, dem Gästehaus der Bundesregierung, um Staatsgäste zu empfangen. auf Schloss Bellevue, dem Amtssitz der Bundespräsidentin/des Bundespräsidenten, um Staatsgäste zu empfangen.",
+    "Answers": [
+      "in Bonn, weil sich dort das Bundeskanzleramt und der Bundestag befinden.",
+      "auf Schloss Meseberg, dem Gästehaus der Bundesregierung, um Staatsgäste \nzu empfangen.",
+      "auf Schloss Bellevue, dem Amtssitz der Bundespräsidentin/des \nBundespräsidenten, um Staatsgäste zu empfangen.",
+      "in Berlin, weil sich dort das Bundeskanzleramt und der Bundestag befinden."
+    ],
+    "Right answer": -1,
+    "Category": "Nationwide"
+  },
+  {
+    "Number": 72,
+    "Question": "Wie heißt die jetzige Bundeskanzlerin/der jetzige Bundeskanzler von Deutschland?",
+    "Answers": [
+      "Gerhard Schröder",
+      "Angela Merkel",
+      "Franziska Giffey",
+      "Olaf Scholz"
+    ],
+    "Right answer": 3,
+    "Category": "Nationwide"
+  },
+  {
+    "Number": 73,
+    "Question": "Die beiden größten Fraktionen im Deutschen Bundestag heißen zurzeit …",
+    "Answers": [
+      "CDU/CSU und SPD.",
+      "Die Linke und Bündnis 90/Die Grünen.",
+      "FDP und SPD.",
+      "Die Linke und FDP."
+    ],
+    "Right answer": -1,
+    "Category": "Nationwide"
+  },
+  {
+    "Number": -1,
+    "Question": "[IMAGE]",
+    "Image": "images/image_34.png",
+    "Answers": [],
+    "Right answer": -1,
+    "Category": "Nationwide"
+  },
+  {
+    "Number": 74,
+    "Question": "Wie heißt das Parlament für ganz Deutschland?",
+    "Answers": [
+      "Bundesversammlung",
+      "Volkskammer",
+      "Bundestag",
+      "Bundesgerichtshof"
+    ],
+    "Right answer": -1,
+    "Category": "Nationwide"
+  },
+  {
+    "Number": 75,
+    "Question": "Wie heißt Deutschlands heutiges Staatsoberhaupt?",
+    "Answers": [
+      "Frank-Walter Steinmeier",
+      "Bärbel Bas",
+      "Bodo Ramelow",
+      "Joachim Gauck"
+    ],
+    "Right answer": -1,
+    "Category": "Nationwide"
+  },
+  {
+    "Number": 76,
+    "Question": "Was bedeutet die Abkürzung CDU in Deutschland?",
+    "Answers": [
+      "Christliche Deutsche Union",
+      "Club Deutscher Unternehmer",
+      "Christlicher Deutscher Umweltschutz",
+      "Christlich Demokratische Union"
+    ],
+    "Right answer": -1,
+    "Category": "Nationwide"
+  },
+  {
+    "Number": -1,
+    "Question": "[IMAGE]",
+    "Image": "images/image_35.png",
+    "Answers": [],
+    "Right answer": -1,
+    "Category": "Nationwide"
+  },
+  {
+    "Number": 77,
+    "Question": "Was ist die Bundeswehr?",
+    "Answers": [
+      "die deutsche Polizei",
+      "ein deutscher Hafen",
+      "eine deutsche Bürgerinitiative",
+      "die deutsche Armee"
+    ],
+    "Right answer": -1,
+    "Category": "Nationwide"
+  },
+  {
+    "Number": 78,
+    "Question": "Was bedeutet die Abkürzung SPD?",
+    "Answers": [
+      "Sozialistische Partei Deutschlands",
+      "Sozialpolitische Partei Deutschlands",
+      "Sozialdemokratische Partei Deutschlands",
+      "Sozialgerechte Partei Deutschlands"
+    ],
+    "Right answer": -1,
+    "Category": "Nationwide"
+  },
+  {
+    "Number": 79,
+    "Question": "Was bedeutet die Abkürzung FDP in Deutschland?",
+    "Answers": [
+      "Friedliche Demonstrative Partei",
+      "Freie Deutschland Partei",
+      "Führende Demokratische Partei",
+      "Freie Demokratische Partei"
+    ],
+    "Right answer": -1,
+    "Category": "Nationwide"
+  },
+  {
+    "Number": -1,
+    "Question": "[IMAGE]",
+    "Image": "images/image_36.png",
+    "Answers": [],
+    "Right answer": -1,
+    "Category": "Nationwide"
+  },
+  {
+    "Number": 80,
+    "Question": "Welches Gericht in Deutschland ist zuständig für die Auslegung des Grundgesetzes?",
+    "Answers": [
+      "Oberlandesgericht",
+      "Amtsgericht",
+      "Bundesverfassungsgericht",
+      "Verwaltungsgericht"
+    ],
+    "Right answer": 2,
+    "Category": "Nationwide"
+  },
+  {
+    "Number": 81,
+    "Question": "Wer wählt die Bundeskanzlerin/den Bundeskanzler in Deutschland?",
+    "Answers": [
+      "der Bundesrat",
+      "die Bundesversammlung",
+      "das Volk",
+      "der Bundestag"
+    ],
+    "Right answer": -1,
+    "Category": "Nationwide"
+  },
+  {
+    "Number": 82,
+    "Question": "Wer leitet das deutsche Bundeskabinett?",
+    "Answers": [
+      "die Bundestagspräsidentin/der Bundestagspräsident",
+      "die Bundespräsidentin/der Bundespräsident",
+      "die Bundesratspräsidentin/der Bundesratspräsident",
+      "die Bundeskanzlerin/der Bundeskanzler"
+    ],
+    "Right answer": -1,
+    "Category": "Nationwide"
+  },
+  {
+    "Number": -1,
+    "Question": "[IMAGE]",
+    "Image": "images/image_37.png",
+    "Answers": [],
+    "Right answer": -1,
+    "Category": "Nationwide"
+  },
+  {
+    "Number": 83,
+    "Question": "Wer wählt die deutsche Bundeskanzlerin/den deutschen Bundeskanzler?",
+    "Answers": [
+      "das Volk",
+      "die Bundesversammlung",
+      "der Bundestag",
+      "die Bundesregierung"
+    ],
+    "Right answer": -1,
+    "Category": "Nationwide"
+  },
+  {
+    "Number": 84,
+    "Question": "Welche Hauptaufgabe hat die deutsche Bundespräsidentin/der deutsche Bundespräsident? Sie/Er …",
+    "Answers": [
+      "regiert das Land.",
+      "entwirft die Gesetze.",
+      "repräsentiert das Land.",
+      "überwacht die Einhaltung der Gesetze."
+    ],
+    "Right answer": -1,
+    "Category": "Nationwide"
+  },
+  {
+    "Number": 85,
+    "Question": "Wer bildet den deutschen Bundesrat?",
+    "Answers": [
+      "die Abgeordneten des Bundestages",
+      "die Ministerinnen und Minister der Bundesregierung",
+      "die Regierungsvertreter der Bundesländer",
+      "die Parteimitglieder"
+    ],
+    "Right answer": -1,
+    "Category": "Nationwide"
+  },
+  {
+    "Number": -1,
+    "Question": "[IMAGE]",
+    "Image": "images/image_38.png",
+    "Answers": [],
+    "Right answer": -1,
+    "Category": "Nationwide"
+  },
+  {
+    "Number": 86,
+    "Question": "Wer wählt in Deutschland die Bundespräsidentin/den Bundespräsidenten?",
+    "Answers": [
+      "die Bundesversammlung",
+      "der Bundesrat",
+      "das Bundesparlament",
+      "das Bundesverfassungsgericht"
+    ],
+    "Right answer": -1,
+    "Category": "Nationwide"
+  },
+  {
+    "Number": 87,
+    "Question": "Wer ist das Staatsoberhaupt der Bundesrepublik Deutschland?",
+    "Answers": [
+      "die Bundeskanzlerin/der Bundeskanzler",
+      "die Bundespräsidentin/der Bundespräsident",
+      "die Bundesratspräsidentin/der Bundesratspräsident",
+      "die Bundestagspräsidentin/der Bundestagspräsident"
+    ],
+    "Right answer": -1,
+    "Category": "Nationwide"
+  },
+  {
+    "Number": 88,
+    "Question": "Die parlamentarische Opposition im Deutschen Bundestag …",
+    "Answers": [
+      "kontrolliert die Regierung.",
+      "entscheidet, wer Bundesministerin/Bundesminister wird.",
+      "bestimmt, wer im Bundesrat sitzt.",
+      "schlägt die Regierungschefinnen/Regierungschefs der Länder vor."
+    ],
+    "Right answer": -1,
+    "Category": "Nationwide"
+  },
+  {
+    "Number": -1,
+    "Question": "[IMAGE]",
+    "Image": "images/image_39.png",
+    "Answers": [],
+    "Right answer": -1,
+    "Category": "Nationwide"
+  },
+  {
+    "Number": 89,
+    "Question": "Wie nennt man in Deutschland die Vereinigung von Abgeordneten einer Partei im Parlament?",
+    "Answers": [
+      "Verband",
+      "Ältestenrat",
+      "Fraktion",
+      "Opposition"
+    ],
+    "Right answer": -1,
+    "Category": "Nationwide"
+  },
+  {
+    "Number": 90,
+    "Question": "Die deutschen Bundesländer wirken an der Gesetzgebung des Bundes mit durch …",
+    "Answers": [
+      "den Bundesrat.",
+      "die Bundesversammlung.",
+      "den Bundestag.",
+      "die Bundesregierung."
+    ],
+    "Right answer": -1,
+    "Category": "Nationwide"
+  },
+  {
+    "Number": 91,
+    "Question": "In Deutschland kann ein Regierungswechsel in einem Bundesland Auswirkungen auf die Bundespolitik haben. Das Regieren wird …",
+    "Answers": [
+      "schwieriger, wenn sich dadurch die Mehrheit im Bundestag ändert.",
+      "leichter, wenn dadurch neue Parteien in den Bundesrat kommen.",
+      "schwieriger, wenn dadurch die Mehrheit im Bundesrat verändert wird.",
+      "leichter, wenn es sich um ein reiches Bundesland handelt."
+    ],
+    "Right answer": -1,
+    "Category": "Nationwide"
+  },
+  {
+    "Number": -1,
+    "Question": "[IMAGE]",
+    "Image": "images/image_40.png",
+    "Answers": [],
+    "Right answer": -1,
+    "Category": "Nationwide"
+  },
+  {
+    "Number": 92,
+    "Question": "Was bedeutet die Abkürzung CSU in Deutschland?",
+    "Answers": [
+      "Christlich Sichere Union",
+      "Christlich Süddeutsche Union",
+      "Christlich Sozialer Unternehmerverband",
+      "Christlich Soziale Union"
+    ],
+    "Right answer": -1,
+    "Category": "Nationwide"
+  },
+  {
+    "Number": 93,
+    "Question": "Je mehr \"Zweitstimmen\" eine Partei bei einer Bundestagswahl bekommt, desto …",
+    "Answers": [
+      "weniger Erststimmen kann sie haben.",
+      "mehr Direktkandidaten der Partei ziehen ins Parlament ein.",
+      "größer ist das Risiko, eine Koalition bilden zu müssen.",
+      "mehr Sitze erhält die Partei im Parlament."
+    ],
+    "Right answer": -1,
+    "Category": "Nationwide"
+  },
+  {
+    "Number": 94,
+    "Question": "Ab welchem Alter darf man in Deutschland an der Wahl zum Deutschen Bundestag teilnehmen?",
+    "Answers": [
+      "16",
+      "18",
+      "21",
+      "23"
+    ],
+    "Right answer": -1,
+    "Category": "Nationwide"
+  },
+  {
+    "Number": -1,
+    "Question": "[IMAGE]",
+    "Image": "images/image_41.png",
+    "Answers": [],
+    "Right answer": -1,
+    "Category": "Nationwide"
+  },
+  {
+    "Number": 95,
+    "Question": "Was gilt für die meisten Kinder in Deutschland?",
+    "Answers": [
+      "Wahlpflicht",
+      "Schulpflicht",
+      "Schweigepflicht",
+      "Religionspflicht"
+    ],
+    "Right answer": -1,
+    "Category": "Nationwide"
+  },
+  {
+    "Number": 96,
+    "Question": "Wie kann jemand, der den Holocaust leugnet, bestraft werden?",
+    "Answers": [
+      "Kürzung sozialer Leistungen",
+      "bis zu 100 Sozialstunden",
+      "gar nicht, Holocaustleugnung ist erlaubt",
+      "mit Freiheitsstrafe bis zu fünf Jahren oder mit Geldstrafe"
+    ],
+    "Right answer": -1,
+    "Category": "Nationwide"
+  },
+  {
+    "Number": 97,
+    "Question": "Was bezahlt man in Deutschland automatisch, wenn man fest angestellt ist?",
+    "Answers": [
+      "Sozialversicherung",
+      "Sozialhilfe",
+      "Kindergeld",
+      "Wohngeld"
+    ],
+    "Right answer": -1,
+    "Category": "Nationwide"
+  },
+  {
+    "Number": -1,
+    "Question": "[IMAGE]",
+    "Image": "images/image_42.png",
+    "Answers": [],
+    "Right answer": -1,
+    "Category": "Nationwide"
+  },
+  {
+    "Number": 98,
+    "Question": "Wenn Abgeordnete im Deutschen Bundestag ihre Fraktion wechseln, …   muss die Bundespräsidentin/der Bundespräsident zuvor ihr/sein Einverständnis geben.",
+    "Answers": [
+      "dürfen sie nicht mehr an den Sitzungen des Parlaments teilnehmen.",
+      "kann die Regierung ihre Mehrheit verlieren.",
+      "muss die Bundespräsidentin/der Bundespräsident zuvor ihr/sein \nEinverständnis geben.",
+      "dürfen die Wählerinnen/Wähler dieser Abgeordneten noch einmal wählen."
+    ],
+    "Right answer": -1,
+    "Category": "Nationwide"
+  },
+  {
+    "Number": 99,
+    "Question": "Wer bezahlt in Deutschland die Sozialversicherungen?",
+    "Answers": [
+      "Arbeitgeberinnen/Arbeitgeber und Arbeitnehmerinnen/Arbeitnehmer",
+      "nur Arbeitnehmerinnen/Arbeitnehmer",
+      "alle Staatsangehörigen",
+      "nur Arbeitgeberinnen/Arbeitgeber"
+    ],
+    "Right answer": -1,
+    "Category": "Nationwide"
+  },
+  {
+    "Number": 100,
+    "Question": "Was gehört nicht zur gesetzlichen Sozialversicherung?",
+    "Answers": [
+      "die Lebensversicherung",
+      "die gesetzliche Rentenversicherung",
+      "die Arbeitslosenversicherung",
+      "die Pflegeversicherung"
+    ],
+    "Right answer": -1,
+    "Category": "Nationwide"
+  },
+  {
+    "Number": -1,
+    "Question": "[IMAGE]",
+    "Image": "images/image_43.png",
+    "Answers": [],
+    "Right answer": -1,
+    "Category": "Nationwide"
+  },
+  {
+    "Number": 101,
+    "Question": "Gewerkschaften sind Interessenverbände der …",
+    "Answers": [
+      "Jugendlichen.",
+      "Arbeitnehmerinnen und Arbeitnehmer.",
+      "Rentnerinnen und Rentner.",
+      "Arbeitgeberinnen und Arbeitgeber."
+    ],
+    "Right answer": -1,
+    "Category": "Nationwide"
+  },
+  {
+    "Number": 102,
+    "Question": "Womit kann man in der Bundesrepublik Deutschland geehrt werden, wenn man auf politischem, wirtschaftlichem, kulturellem, geistigem oder sozialem Gebiet eine besondere Leistung erbracht hat? Mit dem …",
+    "Answers": [
+      "Bundesverdienstkreuz",
+      "Bundesadler",
+      "Vaterländischen Verdienstorden",
+      "Ehrentitel \"Held der Deutschen Demokratischen Republik\""
+    ],
+    "Right answer": -1,
+    "Category": "Nationwide"
+  },
+  {
+    "Number": 103,
+    "Question": "Was wird in Deutschland als \"Ampelkoalition\" bezeichnet? Die Zusammenarbeit …",
+    "Answers": [
+      "der Bundestagsfraktionen von CDU und CSU",
+      "von SPD, FDP und Bündnis 90/Die Grünen in einer Regierung",
+      "von CSU, Die LINKE und Bündnis 90/Die Grünen in einer Regierung",
+      "der Bundestagsfraktionen von CDU und SPD"
+    ],
+    "Right answer": -1,
+    "Category": "Nationwide"
+  },
+  {
+    "Number": -1,
+    "Question": "[IMAGE]",
+    "Image": "images/image_44.png",
+    "Answers": [],
+    "Right answer": -1,
+    "Category": "Nationwide"
+  },
+  {
+    "Number": 104,
+    "Question": "Eine Frau in Deutschland verliert ihre Arbeit. Was darf nicht der Grund für diese Entlassung sein?",
+    "Answers": [
+      "Die Frau ist lange krank und arbeitsunfähig.",
+      "Die Frau kam oft zu spät zur Arbeit.",
+      "Die Frau erledigt private Sachen während der Arbeitszeit.",
+      "Die Frau bekommt ein Kind und ihr Chef weiß das."
+    ],
+    "Right answer": -1,
+    "Category": "Nationwide"
+  },
+  {
+    "Number": -1,
+    "Question": "[IMAGE]",
+    "Image": "images/image_45.png",
+    "Answers": [],
+    "Right answer": -1,
+    "Category": "Nationwide"
+  },
+  {
+    "Number": 107,
+    "Question": "Für wie viele Jahre wird der Bundestag in Deutschland gewählt?",
+    "Answers": [
+      "2 Jahre",
+      "4 Jahre",
+      "6 Jahre",
+      "8 Jahre"
+    ],
+    "Right answer": -1,
+    "Category": "Nationwide"
+  },
+  {
+    "Number": 108,
+    "Question": "Bei einer Bundestagswahl in Deutschland darf jede/jeder wählen, die/der …  Bürgerin/Bürger der Bundesrepublik Deutschland ist und mindestens 18 Jahre alt ist.  Bürgerin/Bürger der Bundesrepublik Deutschland ist und mindestens 21 Jahre alt ist.",
+    "Answers": [
+      "in der Bundesrepublik Deutschland wohnt und wählen möchte.",
+      "Bürgerin/Bürger der Bundesrepublik Deutschland ist und mindestens 18 Jahre \nalt ist.",
+      "seit mindestens 3 Jahren in der Bundesrepublik Deutschland lebt.",
+      "Bürgerin/Bürger der Bundesrepublik Deutschland ist und mindestens 21 Jahre \nalt ist."
+    ],
+    "Right answer": -1,
+    "Category": "Nationwide"
+  },
+  {
+    "Number": 109,
+    "Question": "Wie oft gibt es normalerweise Bundestagswahlen in Deutschland?",
+    "Answers": [
+      "alle drei Jahre",
+      "alle vier Jahre",
+      "alle fünf Jahre",
+      "alle sechs Jahre"
+    ],
+    "Right answer": -1,
+    "Category": "Nationwide"
+  },
+  {
+    "Number": -1,
+    "Question": "[IMAGE]",
+    "Image": "images/image_46.png",
+    "Answers": [],
+    "Right answer": -1,
+    "Category": "Nationwide"
+  },
+  {
+    "Number": 110,
+    "Question": "Für wie viele Jahre wird der Bundestag in Deutschland gewählt?",
+    "Answers": [
+      "2 Jahre",
+      "3 Jahre",
+      "4 Jahre",
+      "5 Jahre"
+    ],
+    "Right answer": -1,
+    "Category": "Nationwide"
+  },
+  {
+    "Number": 111,
+    "Question": "Welche Handlungen mit Bezug auf den Staat Israel sind in Deutschland verboten?",
+    "Answers": [
+      "die Politik Israels öffentlich kritisieren",
+      "das Aufhängen einer israelischen Flagge auf dem Privatgrundstück",
+      "eine Diskussion über die Politik Israels",
+      "der öffentliche Aufruf zur Vernichtung Israels"
+    ],
+    "Right answer": -1,
+    "Category": "Nationwide"
+  },
+  {
+    "Number": 112,
+    "Question": "Die Wahlen in Deutschland sind …",
+    "Answers": [
+      "speziell.",
+      "geheim.",
+      "berufsbezogen.",
+      "geschlechtsabhängig."
+    ],
+    "Right answer": -1,
+    "Category": "Nationwide"
+  },
+  {
+    "Number": -1,
+    "Question": "[IMAGE]",
+    "Image": "images/image_47.png",
+    "Answers": [],
+    "Right answer": -1,
+    "Category": "Nationwide"
+  },
+  {
+    "Number": 113,
+    "Question": "Wahlen in Deutschland gewinnt die Partei, die …    die meisten Erststimmen für ihre Kanzlerkandidatin/ihren Kanzlerkandidaten erhalten hat.",
+    "Answers": [
+      "die meisten Stimmen bekommt.",
+      "die meisten Männer mehrheitlich gewählt haben.",
+      "die meisten Stimmen bei den Arbeiterinnen/Arbeitern bekommen hat.",
+      "die meisten Erststimmen für ihre Kanzlerkandidatin/ihren Kanzlerkandidaten \nerhalten hat."
+    ],
+    "Right answer": -1,
+    "Category": "Nationwide"
+  },
+  {
+    "Number": 114,
+    "Question": "An demokratischen Wahlen in Deutschland teilzunehmen ist …",
+    "Answers": [
+      "eine Pflicht.",
+      "ein Recht.",
+      "ein Zwang.",
+      "eine Last."
+    ],
+    "Right answer": -1,
+    "Category": "Nationwide"
+  },
+  {
+    "Number": 115,
+    "Question": "Was bedeutet \"aktives Wahlrecht\" in Deutschland?",
+    "Answers": [
+      "Man kann gewählt werden.",
+      "Man muss wählen gehen.",
+      "Man kann wählen.",
+      "Man muss zur Auszählung der Stimmen gehen."
+    ],
+    "Right answer": -1,
+    "Category": "Nationwide"
+  },
+  {
+    "Number": -1,
+    "Question": "[IMAGE]",
+    "Image": "images/image_48.png",
+    "Answers": [],
+    "Right answer": -1,
+    "Category": "Nationwide"
+  },
+  {
+    "Number": 116,
+    "Question": "Wenn Sie bei einer Bundestagswahl in Deutschland wählen dürfen, heißt das …",
+    "Answers": [
+      "aktive Wahlkampagne.",
+      "aktives Wahlverfahren.",
+      "aktiver Wahlkampf.",
+      "aktives Wahlrecht."
+    ],
+    "Right answer": -1,
+    "Category": "Nationwide"
+  },
+  {
+    "Number": 117,
+    "Question": "Wie viel Prozent der Zweitstimmen müssen Parteien mindestens bekommen, um in den Deutschen Bundestag gewählt zu werden?",
+    "Answers": [
+      "3%",
+      "4%",
+      "5%",
+      "6%"
+    ],
+    "Right answer": -1,
+    "Category": "Nationwide"
+  },
+  {
+    "Number": 118,
+    "Question": "Wer darf bei den rund 40 jüdischen Makkabi-Sportvereinen Mitglied werden?",
+    "Answers": [
+      "nur Deutsche",
+      "nur Israelis",
+      "nur religiöse Menschen",
+      "alle Menschen"
+    ],
+    "Right answer": -1,
+    "Category": "Nationwide"
+  },
+  {
+    "Number": -1,
+    "Question": "[IMAGE]",
+    "Image": "images/image_49.png",
+    "Answers": [],
+    "Right answer": -1,
+    "Category": "Nationwide"
+  },
+  {
+    "Number": 119,
+    "Question": "Wahlen in Deutschland sind frei. Was bedeutet das?  Wenn ich wählen gehen möchte, muss meine Arbeitgeberin/mein Arbeitgeber mir frei geben. Jede Person kann ohne Zwang entscheiden, ob sie wählen möchte und wen sie wählen möchte.",
+    "Answers": [
+      "Alle verurteilten Straftäterinnen/Straftäter dürfen nicht wählen.",
+      "Wenn ich wählen gehen möchte, muss meine Arbeitgeberin/mein Arbeitgeber \nmir frei geben.",
+      "Jede Person kann ohne Zwang entscheiden, ob sie wählen möchte und wen \nsie wählen möchte.",
+      "Ich kann frei entscheiden, wo ich wählen gehen möchte."
+    ],
+    "Right answer": -1,
+    "Category": "Nationwide"
+  },
+  {
+    "Number": 120,
+    "Question": "Das Wahlsystem in Deutschland ist ein …",
+    "Answers": [
+      "Zensuswahlrecht.",
+      "Dreiklassenwahlrecht.",
+      "Mehrheits- und Verhältniswahlrecht.",
+      "allgemeines Männerwahlrecht."
+    ],
+    "Right answer": -1,
+    "Category": "Nationwide"
+  },
+  {
+    "Number": 121,
+    "Question": "Eine Partei möchte in den Deutschen Bundestag. Sie muss aber einen Mindestanteil an Wählerstimmen haben. Das heißt …",
+    "Answers": [
+      "5%-Hürde.",
+      "Zulassungsgrenze.",
+      "Basiswert.",
+      "Richtlinie."
+    ],
+    "Right answer": -1,
+    "Category": "Nationwide"
+  },
+  {
+    "Number": -1,
+    "Question": "[IMAGE]",
+    "Image": "images/image_50.png",
+    "Answers": [],
+    "Right answer": -1,
+    "Category": "Nationwide"
+  },
+  {
+    "Number": 122,
+    "Question": "Welchem Grundsatz unterliegen Wahlen in Deutschland? Wahlen in Deutschland sind …",
+    "Answers": [
+      "frei, gleich, geheim.",
+      "offen, sicher, frei.",
+      "geschlossen, gleich, sicher.",
+      "sicher, offen, freiwillig."
+    ],
+    "Right answer": -1,
+    "Category": "Nationwide"
+  },
+  {
+    "Number": 123,
+    "Question": "Was ist in Deutschland die \"5%-Hürde\"?",
+    "Answers": [
+      "Abstimmungsregelung im Bundestag für kleine Parteien",
+      "Anwesenheitskontrolle im Bundestag für Abstimmungen",
+      "Mindestanteil an Wählerstimmen, um ins Parlament zu kommen",
+      "Anwesenheitskontrolle im Bundesrat für Abstimmungen"
+    ],
+    "Right answer": -1,
+    "Category": "Nationwide"
+  },
+  {
+    "Number": 124,
+    "Question": "Die Bundestagswahl in Deutschland ist die Wahl …",
+    "Answers": [
+      "der Bundeskanzlerin/des Bundeskanzlers.",
+      "der Parlamente der Länder.",
+      "des Parlaments für Deutschland.",
+      "der Bundespräsidentin/des Bundespräsidenten."
+    ],
+    "Right answer": -1,
+    "Category": "Nationwide"
+  },
+  {
+    "Number": -1,
+    "Question": "[IMAGE]",
+    "Image": "images/image_51.png",
+    "Answers": [],
+    "Right answer": -1,
+    "Category": "Nationwide"
+  },
+  {
+    "Number": 125,
+    "Question": "In einer Demokratie ist eine Funktion von regelmäßigen Wahlen, …  nach dem Willen der Wählermehrheit den Wechsel der Regierung zu ermöglichen.",
+    "Answers": [
+      "die Bürgerinnen und Bürger zu zwingen, ihre Stimme abzugeben.",
+      "nach dem Willen der Wählermehrheit den Wechsel der Regierung zu \nermöglichen.",
+      "im Land bestehende Gesetze beizubehalten.",
+      "den Armen mehr Macht zu geben."
+    ],
+    "Right answer": -1,
+    "Category": "Nationwide"
+  },
+  {
+    "Number": 126,
+    "Question": "Was bekommen wahlberechtigte Bürgerinnen und Bürger in Deutschland vor einer Wahl?",
+    "Answers": [
+      "eine Wahlbenachrichtigung von der Gemeinde",
+      "eine Wahlerlaubnis von der Bundespräsidentin/von dem Bundespräsidenten",
+      "eine Benachrichtigung von der Bundesversammlung",
+      "eine Benachrichtigung vom Pfarramt"
+    ],
+    "Right answer": -1,
+    "Category": "Nationwide"
+  },
+  {
+    "Number": 127,
+    "Question": "Warum gibt es die 5%-Hürde im Wahlgesetz der Bundesrepublik Deutschland? Es gibt sie, weil …  die Bürgerinnen und Bürger bei vielen kleinen Parteien die Orientierung verlieren können.  die kleinen Parteien nicht so viel Geld haben, um die Politikerinnen und Politiker zu bezahlen.",
+    "Answers": [
+      "die Programme von vielen kleinen Parteien viele Gemeinsamkeiten haben.",
+      "die Bürgerinnen und Bürger bei vielen kleinen Parteien die Orientierung \nverlieren können.",
+      "viele kleine Parteien die Regierungsbildung erschweren.",
+      "die kleinen Parteien nicht so viel Geld haben, um die Politikerinnen und \nPolitiker zu bezahlen."
+    ],
+    "Right answer": -1,
+    "Category": "Nationwide"
+  },
+  {
+    "Number": -1,
+    "Question": "[IMAGE]",
+    "Image": "images/image_52.png",
+    "Answers": [],
+    "Right answer": -1,
+    "Category": "Nationwide"
+  },
+  {
+    "Number": 128,
+    "Question": "Parlamentsmitglieder, die von den Bürgerinnen und Bürgern gewählt werden, nennt man …",
+    "Answers": [
+      "Abgeordnete.",
+      "Kanzlerinnen/Kanzler.",
+      "Botschafterinnen/Botschafter.",
+      "Ministerpräsidentinnen/Ministerpräsidenten."
+    ],
+    "Right answer": -1,
+    "Category": "Nationwide"
+  },
+  {
+    "Number": 129,
+    "Question": "Vom Volk gewählt wird in Deutschland …",
+    "Answers": [
+      "die Bundeskanzlerin/der Bundeskanzler.",
+      "die Ministerpräsidentin/der Ministerpräsident eines Bundeslandes.",
+      "der Bundestag.",
+      "die Bundespräsidentin/der Bundespräsident."
+    ],
+    "Right answer": -1,
+    "Category": "Nationwide"
+  },
+  {
+    "Number": -1,
+    "Question": "[IMAGE]",
+    "Image": "images/image_53.png",
+    "Answers": [],
+    "Right answer": -1,
+    "Category": "Nationwide"
+  },
+  {
+    "Number": -1,
+    "Question": "[IMAGE]",
+    "Image": "images/image_54.png",
+    "Answers": [],
+    "Right answer": -1,
+    "Category": "Nationwide"
+  },
+  {
+    "Number": 130,
+    "Question": "Welcher Stimmzettel wäre bei einer Bundestagswahl gültig?  In Anlehnung an Bundeswahlordnung (BWO), Anlage 6",
+    "Answers": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "Right answer": -1,
+    "Category": "Nationwide"
+  },
+  {
+    "Number": -1,
+    "Question": "[IMAGE]",
+    "Image": "images/image_55.png",
+    "Answers": [],
+    "Right answer": -1,
+    "Category": "Nationwide"
+  },
+  {
+    "Number": 131,
+    "Question": "In Deutschland ist eine Bürgermeisterin/ein Bürgermeister …",
+    "Answers": [
+      "die Leiterin/der Leiter einer Schule.",
+      "die Chefin/der Chef einer Bank.",
+      "das Oberhaupt einer Gemeinde.",
+      "die/der Vorsitzende einer Partei."
+    ],
+    "Right answer": -1,
+    "Category": "Nationwide"
+  },
+  {
+    "Number": 132,
+    "Question": "Viele Menschen in Deutschland arbeiten in ihrer Freizeit ehrenamtlich. Was bedeutet das?",
+    "Answers": [
+      "Sie arbeiten als Soldatinnen/Soldaten.",
+      "Sie arbeiten freiwillig und unbezahlt in Vereinen und Verbänden.",
+      "Sie arbeiten in der Bundesregierung.",
+      "Sie arbeiten in einem Krankenhaus und verdienen dabei Geld."
+    ],
+    "Right answer": -1,
+    "Category": "Nationwide"
+  },
+  {
+    "Number": 133,
+    "Question": "Was ist bei Bundestags- und Landtagswahlen in Deutschland erlaubt?",
+    "Answers": [
+      "Der Ehemann wählt für seine Frau mit.",
+      "Man kann durch Briefwahl seine Stimme abgeben.",
+      "Man kann am Wahltag telefonisch seine Stimme abgeben.",
+      "Kinder ab dem Alter von 14 Jahren dürfen wählen."
+    ],
+    "Right answer": -1,
+    "Category": "Nationwide"
+  },
+  {
+    "Number": -1,
+    "Question": "[IMAGE]",
+    "Image": "images/image_56.png",
+    "Answers": [],
+    "Right answer": -1,
+    "Category": "Nationwide"
+  },
+  {
+    "Number": 134,
+    "Question": "Man will die Buslinie abschaffen, mit der Sie immer zur Arbeit fahren. Was können Sie machen, um die Buslinie zu erhalten? Ich beteilige mich an einer Bürgerinitiative für die Erhaltung der Buslinie oder gründe selber eine Initiative.  Ich wende mich an das Finanzamt, weil ich als Steuerzahlerin/Steuerzahler ein Recht auf die Buslinie habe.",
+    "Answers": [
+      "Ich beteilige mich an einer Bürgerinitiative für die Erhaltung der Buslinie oder \ngründe selber eine Initiative.",
+      "Ich werde Mitglied in einem Sportverein und trainiere Radfahren.",
+      "Ich wende mich an das Finanzamt, weil ich als Steuerzahlerin/Steuerzahler \nein Recht auf die Buslinie habe.",
+      "Ich schreibe einen Brief an das Forstamt der Gemeinde."
+    ],
+    "Right answer": -1,
+    "Category": "Nationwide"
+  },
+  {
+    "Number": 135,
+    "Question": "Wen vertreten die Gewerkschaften in Deutschland?",
+    "Answers": [
+      "große Unternehmen",
+      "kleine Unternehmen",
+      "Selbstständige",
+      "Arbeitnehmerinnen und Arbeitnehmer"
+    ],
+    "Right answer": -1,
+    "Category": "Nationwide"
+  },
+  {
+    "Number": 136,
+    "Question": "Sie gehen in Deutschland zum Arbeitsgericht bei …",
+    "Answers": [
+      "falscher Nebenkostenabrechnung.",
+      "ungerechtfertigter Kündigung durch Ihre Chefin/Ihren Chef.",
+      "Problemen mit den Nachbarinnen/Nachbarn.",
+      "Schwierigkeiten nach einem Verkehrsunfall."
+    ],
+    "Right answer": -1,
+    "Category": "Nationwide"
+  },
+  {
+    "Number": -1,
+    "Question": "[IMAGE]",
+    "Image": "images/image_57.png",
+    "Answers": [],
+    "Right answer": -1,
+    "Category": "Nationwide"
+  },
+  {
+    "Number": 137,
+    "Question": "Welches Gericht ist in Deutschland bei Konflikten in der Arbeitswelt zuständig?",
+    "Answers": [
+      "das Familiengericht",
+      "das Strafgericht",
+      "das Arbeitsgericht",
+      "das Amtsgericht"
+    ],
+    "Right answer": -1,
+    "Category": "Nationwide"
+  },
+  {
+    "Number": 138,
+    "Question": "Was kann ich in Deutschland machen, wenn mir meine Arbeitgeberin/mein Arbeitgeber zu Unrecht gekündigt hat?",
+    "Answers": [
+      "weiterarbeiten und freundlich zur Chefin/zum Chef sein",
+      "ein Mahnverfahren gegen die Arbeitgeberin/den Arbeitgeber führen",
+      "Kündigungsschutzklage erheben",
+      "die Arbeitgeberin/den Arbeitgeber bei der Polizei anzeigen"
+    ],
+    "Right answer": -1,
+    "Category": "Nationwide"
+  },
+  {
+    "Number": 139,
+    "Question": "Wann kommt es in Deutschland zu einem Prozess vor Gericht? Wenn jemand …",
+    "Answers": [
+      "zu einer anderen Religion übertritt.",
+      "eine Straftat begangen hat und angeklagt wird.",
+      "eine andere Meinung als die der Regierung vertritt.",
+      "sein Auto falsch geparkt hat und es abgeschleppt wird."
+    ],
+    "Right answer": -1,
+    "Category": "Nationwide"
+  },
+  {
+    "Number": -1,
+    "Question": "[IMAGE]",
+    "Image": "images/image_58.png",
+    "Answers": [],
+    "Right answer": -1,
+    "Category": "Nationwide"
+  },
+  {
+    "Number": 140,
+    "Question": "Was macht eine Schöffin/ein Schöffe in Deutschland? Sie/Er …",
+    "Answers": [
+      "entscheidet mit Richterinnen/Richtern über Schuld und Strafe.",
+      "gibt Bürgerinnen/Bürgern rechtlichen Rat.",
+      "stellt Urkunden aus.",
+      "verteidigt die Angeklagte/den Angeklagten."
+    ],
+    "Right answer": -1,
+    "Category": "Nationwide"
+  },
+  {
+    "Number": 141,
+    "Question": "Wer berät in Deutschland Personen bei Rechtsfragen und vertritt sie vor Gericht?",
+    "Answers": [
+      "eine Rechtsanwältin/ein Rechtsanwalt",
+      "eine Richterin/ein Richter",
+      "eine Schöffin/ein Schöffe",
+      "eine Staatsanwältin/ein Staatsanwalt"
+    ],
+    "Right answer": -1,
+    "Category": "Nationwide"
+  },
+  {
+    "Number": 142,
+    "Question": "Was ist die Hauptaufgabe einer Richterin/eines Richters in Deutschland? Eine Richterin/ein Richter …",
+    "Answers": [
+      "vertritt Bürgerinnen und Bürger vor einem Gericht.",
+      "arbeitet an einem Gericht und spricht Urteile.",
+      "ändert Gesetze.",
+      "betreut Jugendliche vor Gericht."
+    ],
+    "Right answer": -1,
+    "Category": "Nationwide"
+  },
+  {
+    "Number": -1,
+    "Question": "[IMAGE]",
+    "Image": "images/image_59.png",
+    "Answers": [],
+    "Right answer": -1,
+    "Category": "Nationwide"
+  },
+  {
+    "Number": 143,
+    "Question": "Eine Richterin/ein Richter in Deutschland gehört zur …",
+    "Answers": [
+      "Judikative.",
+      "Exekutive.",
+      "Operative.",
+      "Legislative."
+    ],
+    "Right answer": -1,
+    "Category": "Nationwide"
+  },
+  {
+    "Number": 144,
+    "Question": "Eine Richterin/ein Richter gehört in Deutschland zur …",
+    "Answers": [
+      "vollziehenden Gewalt.",
+      "rechtsprechenden Gewalt.",
+      "planenden Gewalt.",
+      "gesetzgebenden Gewalt."
+    ],
+    "Right answer": -1,
+    "Category": "Nationwide"
+  },
+  {
+    "Number": 145,
+    "Question": "In Deutschland wird die Staatsgewalt geteilt. Für welche Staatsgewalt arbeitet eine Richterin/ein Richter? Für die …",
+    "Answers": [
+      "Judikative",
+      "Exekutive",
+      "Presse",
+      "Legislative"
+    ],
+    "Right answer": -1,
+    "Category": "Nationwide"
+  },
+  {
+    "Number": -1,
+    "Question": "[IMAGE]",
+    "Image": "images/image_60.png",
+    "Answers": [],
+    "Right answer": -1,
+    "Category": "Nationwide"
+  },
+  {
+    "Number": 146,
+    "Question": "Wie nennt man in Deutschland ein Verfahren vor einem Gericht?",
+    "Answers": [
+      "Programm",
+      "Prozedur",
+      "Protokoll",
+      "Prozess"
+    ],
+    "Right answer": -1,
+    "Category": "Nationwide"
+  },
+  {
+    "Number": 147,
+    "Question": "Was ist die Arbeit einer Richterin/eines Richters in Deutschland?",
+    "Answers": [
+      "Deutschland regieren",
+      "Recht sprechen",
+      "Pläne erstellen",
+      "Gesetze erlassen"
+    ],
+    "Right answer": -1,
+    "Category": "Nationwide"
+  },
+  {
+    "Number": -1,
+    "Question": "[IMAGE]",
+    "Image": "images/image_61.png",
+    "Answers": [],
+    "Right answer": -1,
+    "Category": "Nationwide"
+  },
+  {
+    "Number": 149,
+    "Question": "Was ist ein Beispiel für antisemitisches Verhalten?",
+    "Answers": [
+      "ein jüdisches Fest besuchen",
+      "die israelische Regierung kritisieren",
+      "den Holocaust leugnen",
+      "gegen Juden Fußball spielen."
+    ],
+    "Right answer": -1,
+    "Category": "Nationwide"
+  },
+  {
+    "Number": 150,
+    "Question": "Eine Gerichtsschöffin/ein Gerichtsschöffe in Deutschland ist …",
+    "Answers": [
+      "die Stellvertreterin/der Stellvertreter des Stadtoberhaupts.",
+      "eine ehrenamtliche Richterin/ein ehrenamtlicher Richter.",
+      "ein Mitglied eines Gemeinderats.",
+      "eine Person, die Jura studiert hat."
+    ],
+    "Right answer": -1,
+    "Category": "Nationwide"
+  },
+  {
+    "Number": 151,
+    "Question": "Wer baute die Mauer in Berlin?",
+    "Answers": [
+      "Großbritannien",
+      "die DDR",
+      "die Bundesrepublik Deutschland",
+      "die USA"
+    ],
+    "Right answer": -1,
+    "Category": "Nationwide"
+  },
+  {
+    "Number": -1,
+    "Question": "[IMAGE]",
+    "Image": "images/image_62.png",
+    "Answers": [],
+    "Right answer": -1,
+    "Category": "Nationwide"
+  },
+  {
+    "Number": 152,
+    "Question": "Wann waren die Nationalsozialisten mit Adolf Hitler in Deutschland an der Macht?",
+    "Answers": [
+      "1918 bis 1923",
+      "1932 bis 1950",
+      "1933 bis 1945",
+      "1945 bis 1989"
+    ],
+    "Right answer": -1,
+    "Category": "Nationwide"
+  },
+  {
+    "Number": 153,
+    "Question": "Was war am 8. Mai 1945?",
+    "Answers": [
+      "Tod Adolf Hitlers",
+      "Beginn des Berliner Mauerbaus",
+      "Wahl von Konrad Adenauer zum Bundeskanzler",
+      "Ende des Zweiten Weltkriegs in Europa"
+    ],
+    "Right answer": -1,
+    "Category": "Nationwide"
+  },
+  {
+    "Number": 154,
+    "Question": "Wann war der Zweite Weltkrieg zu Ende?",
+    "Answers": [
+      "1933",
+      "1945",
+      "1949",
+      "1961"
+    ],
+    "Right answer": -1,
+    "Category": "Nationwide"
+  },
+  {
+    "Number": -1,
+    "Question": "[IMAGE]",
+    "Image": "images/image_63.png",
+    "Answers": [],
+    "Right answer": -1,
+    "Category": "Nationwide"
+  },
+  {
+    "Number": 155,
+    "Question": "Wann waren die Nationalsozialisten in Deutschland an der Macht?",
+    "Answers": [
+      "1888 bis 1918",
+      "1921 bis 1934",
+      "1933 bis 1945",
+      "1949 bis 1963"
+    ],
+    "Right answer": -1,
+    "Category": "Nationwide"
+  },
+  {
+    "Number": 156,
+    "Question": "In welchem Jahr wurde Hitler Reichskanzler?",
+    "Answers": [
+      "1923",
+      "1927",
+      "1933",
+      "1936"
+    ],
+    "Right answer": -1,
+    "Category": "Nationwide"
+  },
+  {
+    "Number": 157,
+    "Question": "Die Nationalsozialisten mit Adolf Hitler errichteten 1933 in Deutschland …",
+    "Answers": [
+      "eine Diktatur.",
+      "einen demokratischen Staat.",
+      "eine Monarchie.",
+      "ein Fürstentum."
+    ],
+    "Right answer": -1,
+    "Category": "Nationwide"
+  },
+  {
+    "Number": -1,
+    "Question": "[IMAGE]",
+    "Image": "images/image_64.png",
+    "Answers": [],
+    "Right answer": -1,
+    "Category": "Nationwide"
+  },
+  {
+    "Number": 158,
+    "Question": "Das \"Dritte Reich\" war eine …",
+    "Answers": [
+      "Diktatur.",
+      "Demokratie.",
+      "Monarchie.",
+      "Räterepublik."
+    ],
+    "Right answer": -1,
+    "Category": "Nationwide"
+  },
+  {
+    "Number": 159,
+    "Question": "Was gab es in Deutschland nicht während der Zeit des Nationalsozialismus?",
+    "Answers": [
+      "freie Wahlen",
+      "Pressezensur",
+      "willkürliche Verhaftungen",
+      "Verfolgung von Juden"
+    ],
+    "Right answer": -1,
+    "Category": "Nationwide"
+  },
+  {
+    "Number": 160,
+    "Question": "Welcher Krieg dauerte von 1939 bis 1945?",
+    "Answers": [
+      "der Erste Weltkrieg",
+      "der Zweite Weltkrieg",
+      "der Vietnamkrieg",
+      "der Golfkrieg"
+    ],
+    "Right answer": -1,
+    "Category": "Nationwide"
+  },
+  {
+    "Number": -1,
+    "Question": "[IMAGE]",
+    "Image": "images/image_65.png",
+    "Answers": [],
+    "Right answer": -1,
+    "Category": "Nationwide"
+  },
+  {
+    "Number": 161,
+    "Question": "Was kennzeichnete den NS-Staat? Eine Politik …",
+    "Answers": [
+      "des staatlichen Rassismus",
+      "der Meinungsfreiheit",
+      "der allgemeinen Religionsfreiheit",
+      "der Entwicklung der Demokratie"
+    ],
+    "Right answer": -1,
+    "Category": "Nationwide"
+  },
+  {
+    "Number": 162,
+    "Question": "Claus Schenk Graf von Stauffenberg wurde bekannt durch …",
+    "Answers": [
+      "eine Goldmedaille bei den Olympischen Spielen 1936.",
+      "den Bau des Reichstagsgebäudes.",
+      "den Aufbau der Wehrmacht.",
+      "das Attentat auf Hitler am 20. Juli 1944."
+    ],
+    "Right answer": -1,
+    "Category": "Nationwide"
+  },
+  {
+    "Number": 163,
+    "Question": "In welchem Jahr zerstörten die Nationalsozialisten Synagogen und jüdische Geschäfte in Deutschland?",
+    "Answers": [
+      "1925",
+      "1930",
+      "1938",
+      "1945"
+    ],
+    "Right answer": -1,
+    "Category": "Nationwide"
+  },
+  {
+    "Number": -1,
+    "Question": "[IMAGE]",
+    "Image": "images/image_66.png",
+    "Answers": [],
+    "Right answer": -1,
+    "Category": "Nationwide"
+  },
+  {
+    "Number": 164,
+    "Question": "Was passierte am 9. November 1938 in Deutschland?   Jüdische Geschäfte und Synagogen werden durch Nationalsozialisten und ihre Anhänger zerstört.",
+    "Answers": [
+      "Mit dem Angriff auf Polen beginnt der Zweite Weltkrieg.",
+      "Die Nationalsozialisten verlieren eine Wahl und lösen den Reichstag auf.",
+      "Jüdische Geschäfte und Synagogen werden durch Nationalsozialisten und ihre \nAnhänger zerstört.",
+      "Hitler wird Reichspräsident und lässt alle Parteien verbieten."
+    ],
+    "Right answer": -1,
+    "Category": "Nationwide"
+  },
+  {
+    "Number": 165,
+    "Question": "Wie hieß der erste Bundeskanzler der Bundesrepublik Deutschland?",
+    "Answers": [
+      "Konrad Adenauer",
+      "Kurt Georg Kiesinger",
+      "Helmut Schmidt",
+      "Willy Brandt"
+    ],
+    "Right answer": -1,
+    "Category": "Nationwide"
+  },
+  {
+    "Number": 166,
+    "Question": "Bei welchen Demonstrationen in Deutschland riefen die Menschen \"Wir sind das Volk\"?   bei den Anti-Atomkraft-Demonstrationen 1985 in der Bundesrepublik Deutschland",
+    "Answers": [
+      "beim Arbeiteraufstand 1953 in der DDR",
+      "bei den Demonstrationen 1968 in der Bundesrepublik Deutschland",
+      "bei den Anti-Atomkraft-Demonstrationen 1985 in der Bundesrepublik \nDeutschland",
+      "bei den Montagsdemonstrationen 1989 in der DDR"
+    ],
+    "Right answer": -1,
+    "Category": "Nationwide"
+  },
+  {
+    "Number": -1,
+    "Question": "[IMAGE]",
+    "Image": "images/image_67.png",
+    "Answers": [],
+    "Right answer": -1,
+    "Category": "Nationwide"
+  },
+  {
+    "Number": 167,
+    "Question": "Welche Länder wurden nach dem Zweiten Weltkrieg in Deutschland als \"Alliierte Besatzungsmächte\" bezeichnet?",
+    "Answers": [
+      "Sowjetunion, Großbritannien, Polen, Schweden",
+      "Frankreich, Sowjetunion, Italien, Japan",
+      "USA, Sowjetunion, Spanien, Portugal",
+      "USA, Sowjetunion, Großbritannien, Frankreich"
+    ],
+    "Right answer": -1,
+    "Category": "Nationwide"
+  },
+  {
+    "Number": 168,
+    "Question": "Welches Land war keine \"Alliierte Besatzungsmacht\" in Deutschland?",
+    "Answers": [
+      "USA",
+      "Sowjetunion",
+      "Frankreich",
+      "Japan"
+    ],
+    "Right answer": -1,
+    "Category": "Nationwide"
+  },
+  {
+    "Number": 169,
+    "Question": "Wann wurde die Bundesrepublik Deutschland gegründet?",
+    "Answers": [
+      "1939",
+      "1945",
+      "1949",
+      "1951"
+    ],
+    "Right answer": -1,
+    "Category": "Nationwide"
+  },
+  {
+    "Number": -1,
+    "Question": "[IMAGE]",
+    "Image": "images/image_68.png",
+    "Answers": [],
+    "Right answer": -1,
+    "Category": "Nationwide"
+  },
+  {
+    "Number": 170,
+    "Question": "Was gab es während der Zeit des Nationalsozialismus in Deutschland?",
+    "Answers": [
+      "das Verbot von Parteien",
+      "das Recht zur freien Entfaltung der Persönlichkeit",
+      "Pressefreiheit",
+      "den Schutz der Menschenwürde"
+    ],
+    "Right answer": -1,
+    "Category": "Nationwide"
+  },
+  {
+    "Number": 171,
+    "Question": "Soziale Marktwirtschaft bedeutet, die Wirtschaft …  wird vom Staat geplant und gesteuert, Angebot und Nachfrage werden nicht berücksichtigt.  richtet sich nach Angebot und Nachfrage, aber der Staat sorgt für einen sozialen Ausgleich.",
+    "Answers": [
+      "steuert sich allein nach Angebot und Nachfrage.",
+      "wird vom Staat geplant und gesteuert, Angebot und Nachfrage werden nicht \nberücksichtigt.",
+      "richtet sich nach der Nachfrage im Ausland.",
+      "richtet sich nach Angebot und Nachfrage, aber der Staat sorgt für einen \nsozialen Ausgleich."
+    ],
+    "Right answer": -1,
+    "Category": "Nationwide"
+  },
+  {
+    "Number": 172,
+    "Question": "In welcher Besatzungszone wurde die DDR gegründet? In der …",
+    "Answers": [
+      "amerikanischen Besatzungszone",
+      "französischen Besatzungszone",
+      "britischen Besatzungszone",
+      "sowjetischen Besatzungszone"
+    ],
+    "Right answer": -1,
+    "Category": "Nationwide"
+  },
+  {
+    "Number": -1,
+    "Question": "[IMAGE]",
+    "Image": "images/image_69.png",
+    "Answers": [],
+    "Right answer": -1,
+    "Category": "Nationwide"
+  },
+  {
+    "Number": 173,
+    "Question": "Die Bundesrepublik Deutschland ist ein Gründungsmitglied …",
+    "Answers": [
+      "des Nordatlantikpakts (NATO).",
+      "der Vereinten Nationen (VN).",
+      "der Europäischen Union (EU).",
+      "des Warschauer Pakts."
+    ],
+    "Right answer": -1,
+    "Category": "Nationwide"
+  },
+  {
+    "Number": 174,
+    "Question": "Wann wurde die DDR gegründet?",
+    "Answers": [
+      "1947",
+      "1949",
+      "1953",
+      "1956"
+    ],
+    "Right answer": -1,
+    "Category": "Nationwide"
+  },
+  {
+    "Number": 175,
+    "Question": "Wie viele Besatzungszonen gab es in Deutschland nach dem Zweiten Weltkrieg?",
+    "Answers": [
+      "3",
+      "4",
+      "5",
+      "6"
+    ],
+    "Right answer": -1,
+    "Category": "Nationwide"
+  },
+  {
+    "Number": -1,
+    "Question": "[IMAGE]",
+    "Image": "images/image_70.png",
+    "Answers": [],
+    "Right answer": -1,
+    "Category": "Nationwide"
+  },
+  {
+    "Number": -1,
+    "Question": "[IMAGE]",
+    "Image": "images/image_71.png",
+    "Answers": [],
+    "Right answer": -1,
+    "Category": "Nationwide"
+  },
+  {
+    "Number": 176,
+    "Question": "Wie waren die Besatzungszonen Deutschlands nach 1945 verteilt?",
+    "Answers": [
+      "1=Großbritannien, 2=Sowjetunion, 3=Frankreich, 4=USA",
+      "1=Sowjetunion, 2=Großbritannien, 3=USA, 4=Frankreich",
+      "1=Großbritannien, 2=Sowjetunion, 3=USA, 4=Frankreich",
+      "1=Großbritannien, 2=USA, 3=Sowjetunion, 4=Frankreich"
+    ],
+    "Right answer": -1,
+    "Category": "Nationwide"
+  },
+  {
+    "Number": -1,
+    "Question": "[IMAGE]",
+    "Image": "images/image_72.png",
+    "Answers": [],
+    "Right answer": -1,
+    "Category": "Nationwide"
+  },
+  {
+    "Number": 177,
+    "Question": "Welche deutsche Stadt wurde nach dem Zweiten Weltkrieg in vier Sektoren aufgeteilt?",
+    "Answers": [
+      "München",
+      "Berlin",
+      "Dresden",
+      "Frankfurt/Oder"
+    ],
+    "Right answer": -1,
+    "Category": "Nationwide"
+  },
+  {
+    "Number": 178,
+    "Question": "Vom Juni 1948 bis zum Mai 1949 wurden die Bürgerinnen und Bürger von West-Berlin durch eine Luftbrücke versorgt. Welcher Umstand war dafür verantwortlich? Für Frankreich war eine Versorgung der West-Berliner Bevölkerung mit dem Flugzeug kostengünstiger. Die amerikanischen Soldatinnen und Soldaten hatten beim Landtransport Angst vor Überfällen.",
+    "Answers": [
+      "Für Frankreich war eine Versorgung der West-Berliner Bevölkerung mit dem \nFlugzeug kostengünstiger.",
+      "Die amerikanischen Soldatinnen und Soldaten hatten beim Landtransport \nAngst vor Überfällen.",
+      "Für Großbritannien war die Versorgung über die Luftbrücke schneller.",
+      "Die Sowjetunion unterbrach den gesamten Verkehr auf dem Landwege."
+    ],
+    "Right answer": -1,
+    "Category": "Nationwide"
+  },
+  {
+    "Number": 179,
+    "Question": "Wie endete der Zweite Weltkrieg in Europa offiziell?",
+    "Answers": [
+      "mit dem Tod Adolf Hitlers",
+      "durch die bedingungslose Kapitulation Deutschlands",
+      "mit dem Rückzug der Deutschen aus den besetzten Gebieten",
+      "durch eine Revolution in Deutschland"
+    ],
+    "Right answer": -1,
+    "Category": "Nationwide"
+  },
+  {
+    "Number": -1,
+    "Question": "[IMAGE]",
+    "Image": "images/image_73.png",
+    "Answers": [],
+    "Right answer": -1,
+    "Category": "Nationwide"
+  },
+  {
+    "Number": 180,
+    "Question": "Der erste Bundeskanzler der Bundesrepublik Deutschland war …",
+    "Answers": [
+      "Ludwig Erhard.",
+      "Willy Brandt.",
+      "Konrad Adenauer.",
+      "Gerhard Schröder."
+    ],
+    "Right answer": -1,
+    "Category": "Nationwide"
+  },
+  {
+    "Number": -1,
+    "Question": "[IMAGE]",
+    "Image": "images/image_74.png",
+    "Answers": [],
+    "Right answer": -1,
+    "Category": "Nationwide"
+  },
+  {
+    "Number": -1,
+    "Question": "[IMAGE]",
+    "Image": "images/image_75.png",
+    "Answers": [],
+    "Right answer": -1,
+    "Category": "Nationwide"
+  },
+  {
+    "Number": 181,
+    "Question": "Was wollte Willy Brandt mit seinem Kniefall 1970 im ehemaligen jüdischen Ghetto in Warschau ausdrücken?  © Bundesregierung/Engelbert Reineke",
+    "Answers": [
+      "Er hat sich den ehemaligen Alliierten unterworfen.",
+      "Er bat Polen und die polnischen Juden um Vergebung.",
+      "Er zeigte seine Demut vor dem Warschauer Pakt.",
+      "Er sprach ein Gebet am Grab des Unbekannten Soldaten."
+    ],
+    "Right answer": -1,
+    "Category": "Nationwide"
+  },
+  {
+    "Number": -1,
+    "Question": "[IMAGE]",
+    "Image": "images/image_76.png",
+    "Answers": [],
+    "Right answer": -1,
+    "Category": "Nationwide"
+  },
+  {
+    "Number": 182,
+    "Question": "Wie heißt das jüdische Gebetshaus?",
+    "Answers": [
+      "Basilika",
+      "Moschee",
+      "Synagoge",
+      "Kirche"
+    ],
+    "Right answer": -1,
+    "Category": "Nationwide"
+  },
+  {
+    "Number": 183,
+    "Question": "Wann war in der Bundesrepublik Deutschland das \"Wirtschaftswunder\"?",
+    "Answers": [
+      "40er Jahre",
+      "50er Jahre",
+      "70er Jahre",
+      "80er Jahre"
+    ],
+    "Right answer": -1,
+    "Category": "Nationwide"
+  },
+  {
+    "Number": 184,
+    "Question": "184. Auf welcher rechtlichen Grundlage wurde der Staat Israel gegründet?",
+    "Answers": [
+      "eine Resolution der Vereinten Nationen",
+      "ein Beschluss des Zionistenkongresses",
+      "ein Vorschlag der Bundesregierung",
+      "ein Vorschlag der UdSSR"
+    ],
+    "Right answer": -1,
+    "Category": "Nationwide"
+  },
+  {
+    "Number": -1,
+    "Question": "[IMAGE]",
+    "Image": "images/image_77.png",
+    "Answers": [],
+    "Right answer": -1,
+    "Category": "Nationwide"
+  },
+  {
+    "Number": 185,
+    "Question": "Wofür stand der Ausdruck \"Eiserner Vorhang\"? Für die Abschottung …",
+    "Answers": [
+      "des Warschauer Pakts gegen den Westen",
+      "Norddeutschlands gegen Süddeutschland",
+      "Nazi-Deutschlands gegen die Alliierten",
+      "Europas gegen die USA"
+    ],
+    "Right answer": -1,
+    "Category": "Nationwide"
+  },
+  {
+    "Number": 186,
+    "Question": "Im Jahr 1953 gab es in der DDR einen Aufstand, an den lange Zeit in der Bundesrepublik Deutschland ein Feiertag erinnerte. Wann war das?",
+    "Answers": [
+      "1. Mai",
+      "17. Juni",
+      "20. Juli",
+      "9. November"
+    ],
+    "Right answer": -1,
+    "Category": "Nationwide"
+  },
+  {
+    "Number": -1,
+    "Question": "[IMAGE]",
+    "Image": "images/image_78.png",
+    "Answers": [],
+    "Right answer": -1,
+    "Category": "Nationwide"
+  },
+  {
+    "Number": -1,
+    "Question": "[IMAGE]",
+    "Image": "images/image_79.png",
+    "Answers": [],
+    "Right answer": -1,
+    "Category": "Nationwide"
+  },
+  {
+    "Number": 187,
+    "Question": "Welcher deutsche Staat hatte eine schwarz-rot-goldene Flagge mit Hammer, Zirkel und Ährenkranz?",
+    "Answers": [
+      "Preußen",
+      "Bundesrepublik Deutschland",
+      "\"Drittes Reich\"",
+      "DDR"
+    ],
+    "Right answer": -1,
+    "Category": "Nationwide"
+  },
+  {
+    "Number": 188,
+    "Question": "In welchem Jahr wurde die Mauer in Berlin gebaut?",
+    "Answers": [
+      "1953",
+      "1956",
+      "1959",
+      "1961"
+    ],
+    "Right answer": -1,
+    "Category": "Nationwide"
+  },
+  {
+    "Number": -1,
+    "Question": "[IMAGE]",
+    "Image": "images/image_80.png",
+    "Answers": [],
+    "Right answer": -1,
+    "Category": "Nationwide"
+  },
+  {
+    "Number": 189,
+    "Question": "Wann baute die DDR die Mauer in Berlin?",
+    "Answers": [
+      "1919",
+      "1933",
+      "1961",
+      "1990"
+    ],
+    "Right answer": -1,
+    "Category": "Nationwide"
+  },
+  {
+    "Number": 190,
+    "Question": "Was bedeutet die Abkürzung DDR?",
+    "Answers": [
+      "Dritter Deutscher Rundfunk",
+      "Die Deutsche Republik",
+      "Dritte Deutsche Republik",
+      "Deutsche Demokratische Republik"
+    ],
+    "Right answer": -1,
+    "Category": "Nationwide"
+  },
+  {
+    "Number": 191,
+    "Question": "Wann wurde die Mauer in Berlin für alle geöffnet?",
+    "Answers": [
+      "1987",
+      "1989",
+      "1992",
+      "1995"
+    ],
+    "Right answer": -1,
+    "Category": "Nationwide"
+  },
+  {
+    "Number": -1,
+    "Question": "[IMAGE]",
+    "Image": "images/image_81.png",
+    "Answers": [],
+    "Right answer": -1,
+    "Category": "Nationwide"
+  },
+  {
+    "Number": 192,
+    "Question": "Welches heutige deutsche Bundesland gehörte früher zum Gebiet der DDR?",
+    "Answers": [
+      "Brandenburg",
+      "Bayern",
+      "Saarland",
+      "Hessen"
+    ],
+    "Right answer": -1,
+    "Category": "Nationwide"
+  },
+  {
+    "Number": 193,
+    "Question": "Von 1961 bis 1989 war Berlin …",
+    "Answers": [
+      "ohne Bürgermeister.",
+      "ein eigener Staat.",
+      "durch eine Mauer geteilt.",
+      "nur mit dem Flugzeug erreichbar."
+    ],
+    "Right answer": -1,
+    "Category": "Nationwide"
+  },
+  {
+    "Number": 194,
+    "Question": "Am 3. Oktober feiert man in Deutschland den Tag der Deutschen …",
+    "Answers": [
+      "Einheit.",
+      "Nation.",
+      "Bundesländer.",
+      "Städte."
+    ],
+    "Right answer": -1,
+    "Category": "Nationwide"
+  },
+  {
+    "Number": -1,
+    "Question": "[IMAGE]",
+    "Image": "images/image_82.png",
+    "Answers": [],
+    "Right answer": -1,
+    "Category": "Nationwide"
+  },
+  {
+    "Number": 195,
+    "Question": "Welches heutige deutsche Bundesland gehörte früher zum Gebiet der DDR?",
+    "Answers": [
+      "Hessen",
+      "Sachsen-Anhalt",
+      "Nordrhein-Westfalen",
+      "Saarland"
+    ],
+    "Right answer": -1,
+    "Category": "Nationwide"
+  },
+  {
+    "Number": 196,
+    "Question": "Warum nennt man die Zeit im Herbst 1989 in der DDR \"Die Wende\"? In dieser Zeit veränderte sich die DDR politisch …",
+    "Answers": [
+      "von einer Diktatur zur Demokratie.",
+      "von einer liberalen Marktwirtschaft zum Sozialismus.",
+      "von einer Monarchie zur Sozialdemokratie.",
+      "von einem religiösen Staat zu einem kommunistischen Staat."
+    ],
+    "Right answer": -1,
+    "Category": "Nationwide"
+  },
+  {
+    "Number": 197,
+    "Question": "Welches heutige deutsche Bundesland gehörte früher zum Gebiet der DDR?",
+    "Answers": [
+      "Thüringen",
+      "Hessen",
+      "Bayern",
+      "Bremen"
+    ],
+    "Right answer": -1,
+    "Category": "Nationwide"
+  },
+  {
+    "Number": -1,
+    "Question": "[IMAGE]",
+    "Image": "images/image_83.png",
+    "Answers": [],
+    "Right answer": -1,
+    "Category": "Nationwide"
+  },
+  {
+    "Number": 198,
+    "Question": "Welches heutige deutsche Bundesland gehörte früher zum Gebiet der DDR?",
+    "Answers": [
+      "Bayern",
+      "Niedersachsen",
+      "Sachsen",
+      "Baden-Württemberg"
+    ],
+    "Right answer": -1,
+    "Category": "Nationwide"
+  },
+  {
+    "Number": 199,
+    "Question": "Mit der Abkürzung \"Stasi\" meinte man in der DDR …",
+    "Answers": [
+      "das Parlament.",
+      "das Ministerium für Staatssicherheit.",
+      "eine regierende Partei.",
+      "das Ministerium für Volksbildung."
+    ],
+    "Right answer": -1,
+    "Category": "Nationwide"
+  },
+  {
+    "Number": 200,
+    "Question": "Welches heutige deutsche Bundesland gehörte früher zum Gebiet der DDR?",
+    "Answers": [
+      "Hessen",
+      "Schleswig-Holstein",
+      "Mecklenburg-Vorpommern",
+      "Saarland"
+    ],
+    "Right answer": -1,
+    "Category": "Nationwide"
+  },
+  {
+    "Number": -1,
+    "Question": "[IMAGE]",
+    "Image": "images/image_84.png",
+    "Answers": [],
+    "Right answer": -1,
+    "Category": "Nationwide"
+  },
+  {
+    "Number": 201,
+    "Question": "Welche der folgenden Auflistungen enthält nur Bundesländer, die zum Gebiet der früheren DDR gehörten? Niedersachsen, Nordrhein-Westfalen, Hessen, Schleswig-Holstein, Brandenburg Mecklenburg-Vorpommern, Brandenburg, Sachsen, Sachsen-Anhalt, Thüringen",
+    "Answers": [
+      "Niedersachsen, Nordrhein-Westfalen, Hessen, Schleswig-Holstein, \nBrandenburg",
+      "Mecklenburg-Vorpommern, Brandenburg, Sachsen, Sachsen-Anhalt, \nThüringen",
+      "Bayern, Baden-Württemberg, Rheinland-Pfalz, Thüringen, Sachsen",
+      "Sachsen, Thüringen, Hessen, Niedersachen, Brandenburg"
+    ],
+    "Right answer": -1,
+    "Category": "Nationwide"
+  },
+  {
+    "Number": 202,
+    "Question": "Zu wem gehörte die DDR im \"Kalten Krieg\"?",
+    "Answers": [
+      "zu den Westmächten",
+      "zum Warschauer Pakt",
+      "zur NATO",
+      "zu den blockfreien Staaten"
+    ],
+    "Right answer": -1,
+    "Category": "Nationwide"
+  },
+  {
+    "Number": 203,
+    "Question": "Wie hieß das Wirtschaftssystem der DDR?",
+    "Answers": [
+      "Marktwirtschaft",
+      "Planwirtschaft",
+      "Angebot und Nachfrage",
+      "Kapitalismus"
+    ],
+    "Right answer": -1,
+    "Category": "Nationwide"
+  },
+  {
+    "Number": -1,
+    "Question": "[IMAGE]",
+    "Image": "images/image_85.png",
+    "Answers": [],
+    "Right answer": -1,
+    "Category": "Nationwide"
+  },
+  {
+    "Number": 204,
+    "Question": "Wie wurden die Bundesrepublik Deutschland und die DDR zu einem Staat?  Die heutigen fünf östlichen Bundesländer sind der Bundesrepublik Deutschland beigetreten.",
+    "Answers": [
+      "Die Bundesrepublik hat die DDR besetzt.",
+      "Die heutigen fünf östlichen Bundesländer sind der Bundesrepublik \nDeutschland beigetreten.",
+      "Die westlichen Bundesländer sind der DDR beigetreten.",
+      "Die DDR hat die Bundesrepublik Deutschland besetzt."
+    ],
+    "Right answer": -1,
+    "Category": "Nationwide"
+  },
+  {
+    "Number": 205,
+    "Question": "Mit dem Beitritt der DDR zur Bundesrepublik Deutschland gehören die neuen Bundesländer nun auch …",
+    "Answers": [
+      "zur Europäischen Union.",
+      "zum Warschauer Pakt.",
+      "zur OPEC.",
+      "zur Europäischen Verteidigungsgemeinschaft."
+    ],
+    "Right answer": -1,
+    "Category": "Nationwide"
+  },
+  {
+    "Number": 206,
+    "Question": "206. Woran erinnern die sogenannten „Stolpersteine“ in Deutschland?",
+    "Answers": [
+      "an berühmte deutsche Politikerinnen und Politiker",
+      "an die Opfer des Nationalsozialismus",
+      "an Verkehrstote",
+      "an bekannte jüdische Musiker"
+    ],
+    "Right answer": -1,
+    "Category": "Nationwide"
+  },
+  {
+    "Number": -1,
+    "Question": "[IMAGE]",
+    "Image": "images/image_86.png",
+    "Answers": [],
+    "Right answer": -1,
+    "Category": "Nationwide"
+  },
+  {
+    "Number": 207,
+    "Question": "In welchem Militärbündnis war die DDR Mitglied?",
+    "Answers": [
+      "in der NATO",
+      "im Rheinbund",
+      "im Warschauer Pakt",
+      "im Europabündnis"
+    ],
+    "Right answer": -1,
+    "Category": "Nationwide"
+  },
+  {
+    "Number": 208,
+    "Question": "Was war die \"Stasi\"?",
+    "Answers": [
+      "der Geheimdienst im \"Dritten Reich\"",
+      "eine berühmte deutsche Gedenkstätte",
+      "der Geheimdienst der DDR",
+      "ein deutscher Sportverein während des Zweiten Weltkrieges"
+    ],
+    "Right answer": -1,
+    "Category": "Nationwide"
+  },
+  {
+    "Number": -1,
+    "Question": "[IMAGE]",
+    "Image": "images/image_87.png",
+    "Answers": [],
+    "Right answer": -1,
+    "Category": "Nationwide"
+  },
+  {
+    "Number": -1,
+    "Question": "[IMAGE]",
+    "Image": "images/image_88.png",
+    "Answers": [],
+    "Right answer": -1,
+    "Category": "Nationwide"
+  },
+  {
+    "Number": -1,
+    "Question": "[IMAGE]",
+    "Image": "images/image_89.png",
+    "Answers": [],
+    "Right answer": -1,
+    "Category": "Nationwide"
+  },
+  {
+    "Number": -1,
+    "Question": "[IMAGE]",
+    "Image": "images/image_90.png",
+    "Answers": [],
+    "Right answer": -1,
+    "Category": "Nationwide"
+  },
+  {
+    "Number": -1,
+    "Question": "[IMAGE]",
+    "Image": "images/image_91.png",
+    "Answers": [],
+    "Right answer": -1,
+    "Category": "Nationwide"
+  },
+  {
+    "Number": 209,
+    "Question": "Welches war das Wappen der Deutschen Demokratischen Republik?",
+    "Answers": [
+      "Bild 1",
+      "Bild 2",
+      "Bild 3",
+      "Bild 4"
+    ],
+    "Right answer": -1,
+    "Category": "Nationwide"
+  },
+  {
+    "Number": 210,
+    "Question": "Was ereignete sich am 17. Juni 1953 in der DDR?",
+    "Answers": [
+      "der feierliche Beitritt zum Warschauer Pakt",
+      "landesweite Streiks und ein Volksaufstand",
+      "der 1. SED-Parteitag",
+      "der erste Besuch Fidel Castros"
+    ],
+    "Right answer": -1,
+    "Category": "Nationwide"
+  },
+  {
+    "Number": -1,
+    "Question": "[IMAGE]",
+    "Image": "images/image_92.png",
+    "Answers": [],
+    "Right answer": -1,
+    "Category": "Nationwide"
+  },
+  {
+    "Number": 211,
+    "Question": "Welcher Politiker steht für die \"Ostverträge\"?",
+    "Answers": [
+      "Helmut Kohl",
+      "Willy Brandt",
+      "Michail Gorbatschow",
+      "Ludwig Erhard"
+    ],
+    "Right answer": -1,
+    "Category": "Nationwide"
+  },
+  {
+    "Number": 212,
+    "Question": "Wie heißt Deutschland mit vollem Namen?",
+    "Answers": [
+      "Bundesstaat Deutschland",
+      "Bundesländer Deutschland",
+      "Bundesrepublik Deutschland",
+      "Bundesbezirk Deutschland"
+    ],
+    "Right answer": -1,
+    "Category": "Nationwide"
+  },
+  {
+    "Number": 213,
+    "Question": "Wie viele Einwohner hat Deutschland?",
+    "Answers": [
+      "70 Millionen",
+      "78 Millionen",
+      "84 Millionen",
+      "90 Millionen"
+    ],
+    "Right answer": -1,
+    "Category": "Nationwide"
+  },
+  {
+    "Number": -1,
+    "Question": "[IMAGE]",
+    "Image": "images/image_93.png",
+    "Answers": [],
+    "Right answer": -1,
+    "Category": "Nationwide"
+  },
+  {
+    "Number": 214,
+    "Question": "Welche Farben hat die deutsche Flagge?",
+    "Answers": [
+      "schwarz-rot-gold",
+      "rot-weiß-schwarz",
+      "schwarz-rot-grün",
+      "schwarz-gelb-rot"
+    ],
+    "Right answer": 0,
+    "Category": "Nationwide"
+  },
+  {
+    "Number": 215,
+    "Question": "Wer wird als \"Kanzler der Deutschen Einheit\" bezeichnet?",
+    "Answers": [
+      "Gerhard Schröder",
+      "Helmut Kohl",
+      "Konrad Adenauer",
+      "Helmut Schmidt"
+    ],
+    "Right answer": -1,
+    "Category": "Nationwide"
+  },
+  {
+    "Number": -1,
+    "Question": "[IMAGE]",
+    "Image": "images/image_94.png",
+    "Answers": [],
+    "Right answer": -1,
+    "Category": "Nationwide"
+  },
+  {
+    "Number": -1,
+    "Question": "[IMAGE]",
+    "Image": "images/image_95.png",
+    "Answers": [],
+    "Right answer": -1,
+    "Category": "Nationwide"
+  },
+  {
+    "Number": 216,
+    "Question": "Welches Symbol ist im Plenarsaal des Deutschen Bundestages zu sehen?  © Deutscher Bundestag/Janine Schmitz",
+    "Answers": [
+      "der Bundesadler",
+      "die Fahne der Stadt Berlin",
+      "der Reichsadler",
+      "die Reichskrone"
+    ],
+    "Right answer": -1,
+    "Category": "Nationwide"
+  },
+  {
+    "Number": 217,
+    "Question": "In welchem Zeitraum gab es die Deutsche Demokratische Republik (DDR)?",
+    "Answers": [
+      "1919 bis 1927",
+      "1933 bis 1945",
+      "1945 bis 1961",
+      "1949 bis 1990"
+    ],
+    "Right answer": -1,
+    "Category": "Nationwide"
+  },
+  {
+    "Number": -1,
+    "Question": "[IMAGE]",
+    "Image": "images/image_96.png",
+    "Answers": [],
+    "Right answer": -1,
+    "Category": "Nationwide"
+  },
+  {
+    "Number": 218,
+    "Question": "Wie viele Bundesländer kamen bei der Wiedervereinigung 1990 zur Bundesrepublik Deutschland hinzu?",
+    "Answers": [
+      "4",
+      "5",
+      "6",
+      "7"
+    ],
+    "Right answer": -1,
+    "Category": "Nationwide"
+  },
+  {
+    "Number": 219,
+    "Question": "Die Bundesrepublik Deutschland hat die Grenzen von heute seit …",
+    "Answers": [
+      "1933",
+      "1949",
+      "1971",
+      "1990"
+    ],
+    "Right answer": -1,
+    "Category": "Nationwide"
+  },
+  {
+    "Number": 220,
+    "Question": "Der 27. Januar ist in Deutschland ein offizieller Gedenktag. Woran erinnert dieser Tag?    an die Opfer des Nationalsozialismus (Tag der Befreiung des Vernichtungslagers Auschwitz)",
+    "Answers": [
+      "an das Ende des Zweiten Weltkrieges",
+      "an die Verabschiedung des Grundgesetzes",
+      "an die Wiedervereinigung Deutschlands",
+      "an die Opfer des Nationalsozialismus (Tag der Befreiung des \nVernichtungslagers Auschwitz)"
+    ],
+    "Right answer": -1,
+    "Category": "Nationwide"
+  },
+  {
+    "Number": -1,
+    "Question": "[IMAGE]",
+    "Image": "images/image_97.png",
+    "Answers": [],
+    "Right answer": -1,
+    "Category": "Nationwide"
+  },
+  {
+    "Number": 221,
+    "Question": "Deutschland ist Mitglied des Schengener Abkommens. Was bedeutet das?",
+    "Answers": [
+      "Deutsche können in viele Länder Europas ohne Passkontrolle reisen.",
+      "Alle Menschen können ohne Personenkontrolle in Deutschland einreisen.",
+      "Deutsche können ohne Passkontrolle in jedes Land reisen.",
+      "Deutsche können in jedem Land mit dem Euro bezahlen."
+    ],
+    "Right answer": -1,
+    "Category": "Nationwide"
+  },
+  {
+    "Number": 222,
+    "Question": "Welches Land ist ein Nachbarland von Deutschland?",
+    "Answers": [
+      "Ungarn",
+      "Portugal",
+      "Spanien",
+      "Schweiz"
+    ],
+    "Right answer": -1,
+    "Category": "Nationwide"
+  },
+  {
+    "Number": 223,
+    "Question": "Welches Land ist ein Nachbarland von Deutschland?",
+    "Answers": [
+      "Rumänien",
+      "Bulgarien",
+      "Polen",
+      "Griechenland"
+    ],
+    "Right answer": -1,
+    "Category": "Nationwide"
+  },
+  {
+    "Number": -1,
+    "Question": "[IMAGE]",
+    "Image": "images/image_98.png",
+    "Answers": [],
+    "Right answer": -1,
+    "Category": "Nationwide"
+  },
+  {
+    "Number": 224,
+    "Question": "Was bedeutet die Abkürzung EU?",
+    "Answers": [
+      "Europäische Unternehmen",
+      "Europäische Union",
+      "Einheitliche Union",
+      "Euro Union"
+    ],
+    "Right answer": -1,
+    "Category": "Nationwide"
+  },
+  {
+    "Number": 225,
+    "Question": "In welchem anderen Land gibt es eine große deutschsprachige Bevölkerung?",
+    "Answers": [
+      "Tschechien",
+      "Norwegen",
+      "Spanien",
+      "Österreich"
+    ],
+    "Right answer": -1,
+    "Category": "Nationwide"
+  },
+  {
+    "Number": -1,
+    "Question": "[IMAGE]",
+    "Image": "images/image_99.png",
+    "Answers": [],
+    "Right answer": -1,
+    "Category": "Nationwide"
+  },
+  {
+    "Number": -1,
+    "Question": "[IMAGE]",
+    "Image": "images/image_100.png",
+    "Answers": [],
+    "Right answer": -1,
+    "Category": "Nationwide"
+  },
+  {
+    "Number": -1,
+    "Question": "[IMAGE]",
+    "Image": "images/image_101.png",
+    "Answers": [],
+    "Right answer": -1,
+    "Category": "Nationwide"
+  },
+  {
+    "Number": -1,
+    "Question": "[IMAGE]",
+    "Image": "images/image_102.png",
+    "Answers": [],
+    "Right answer": -1,
+    "Category": "Nationwide"
+  },
+  {
+    "Number": -1,
+    "Question": "[IMAGE]",
+    "Image": "images/image_103.png",
+    "Answers": [],
+    "Right answer": -1,
+    "Category": "Nationwide"
+  },
+  {
+    "Number": 226,
+    "Question": "Welche ist die Flagge der Europäischen Union?",
+    "Answers": [
+      "Bild 1",
+      "Bild 2",
+      "Bild 3",
+      "Bild 4"
+    ],
+    "Right answer": -1,
+    "Category": "Nationwide"
+  },
+  {
+    "Number": 227,
+    "Question": "Welches Land ist ein Nachbarland von Deutschland?",
+    "Answers": [
+      "Finnland",
+      "Dänemark",
+      "Norwegen",
+      "Schweden"
+    ],
+    "Right answer": -1,
+    "Category": "Nationwide"
+  },
+  {
+    "Number": 228,
+    "Question": "Wie wird der Beitritt der DDR zur Bundesrepublik Deutschland im Jahr 1990 allgemein genannt?",
+    "Answers": [
+      "NATO-Osterweiterung",
+      "EU-Osterweiterung",
+      "Deutsche Wiedervereinigung",
+      "Europäische Gemeinschaft"
+    ],
+    "Right answer": -1,
+    "Category": "Nationwide"
+  },
+  {
+    "Number": -1,
+    "Question": "[IMAGE]",
+    "Image": "images/image_104.png",
+    "Answers": [],
+    "Right answer": -1,
+    "Category": "Nationwide"
+  },
+  {
+    "Number": 229,
+    "Question": "Welches Land ist ein Nachbarland von Deutschland?",
+    "Answers": [
+      "Spanien",
+      "Bulgarien",
+      "Norwegen",
+      "Luxemburg"
+    ],
+    "Right answer": -1,
+    "Category": "Nationwide"
+  },
+  {
+    "Number": 230,
+    "Question": "Das Europäische Parlament wird regelmäßig gewählt, nämlich alle …",
+    "Answers": [
+      "5 Jahre.",
+      "6 Jahre.",
+      "7 Jahre.",
+      "8 Jahre."
+    ],
+    "Right answer": -1,
+    "Category": "Nationwide"
+  },
+  {
+    "Number": 231,
+    "Question": "Was bedeutet der Begriff \"europäische Integration\"? Damit sind amerikanische Einwanderinnen und Einwanderer in Europa gemeint.  Damit sind europäische Auswanderinnen und Auswanderer in den USA gemeint.",
+    "Answers": [
+      "Damit sind amerikanische Einwanderinnen und Einwanderer in Europa \ngemeint.",
+      "Der Begriff meint den Einwanderungsstopp nach Europa.",
+      "Damit sind europäische Auswanderinnen und Auswanderer in den USA \ngemeint.",
+      "Der Begriff meint den Zusammenschluss europäischer Staaten zur EU."
+    ],
+    "Right answer": -1,
+    "Category": "Nationwide"
+  },
+  {
+    "Number": -1,
+    "Question": "[IMAGE]",
+    "Image": "images/image_105.png",
+    "Answers": [],
+    "Right answer": -1,
+    "Category": "Nationwide"
+  },
+  {
+    "Number": 232,
+    "Question": "Wer wird bei der Europawahl gewählt?",
+    "Answers": [
+      "die Europäische Kommission",
+      "die Länder, die in die EU eintreten dürfen",
+      "die Abgeordneten des Europäischen Parlaments",
+      "die europäische Verfassung"
+    ],
+    "Right answer": -1,
+    "Category": "Nationwide"
+  },
+  {
+    "Number": 233,
+    "Question": "Welches Land ist ein Nachbarland von Deutschland?",
+    "Answers": [
+      "Tschechien",
+      "Bulgarien",
+      "Griechenland",
+      "Portugal"
+    ],
+    "Right answer": -1,
+    "Category": "Nationwide"
+  },
+  {
+    "Number": 234,
+    "Question": "Wo ist ein Sitz des Europäischen Parlaments?",
+    "Answers": [
+      "London",
+      "Paris",
+      "Berlin",
+      "Straßburg"
+    ],
+    "Right answer": -1,
+    "Category": "Nationwide"
+  },
+  {
+    "Number": -1,
+    "Question": "[IMAGE]",
+    "Image": "images/image_106.png",
+    "Answers": [],
+    "Right answer": -1,
+    "Category": "Nationwide"
+  },
+  {
+    "Number": -1,
+    "Question": "[IMAGE]",
+    "Image": "images/image_107.png",
+    "Answers": [],
+    "Right answer": -1,
+    "Category": "Nationwide"
+  },
+  {
+    "Number": 235,
+    "Question": "Der damalige französische Staatspräsident François Mitterrand und der damalige deutsche Bundeskanzler Helmut Kohl gedenken in Verdun gemeinsam der Toten beider Weltkriege. Welches Ziel der Europäischen Union wird bei diesem Treffen deutlich?  © Bundesregierung/Richard Schulze-Vorberg",
+    "Answers": [
+      "Freundschaft zwischen England und Deutschland",
+      "Reisefreiheit in alle Länder der EU",
+      "Frieden und Sicherheit in den Ländern der EU",
+      "einheitliche Feiertage in den Ländern der EU"
+    ],
+    "Right answer": -1,
+    "Category": "Nationwide"
+  },
+  {
+    "Number": -1,
+    "Question": "[IMAGE]",
+    "Image": "images/image_108.png",
+    "Answers": [],
+    "Right answer": -1,
+    "Category": "Nationwide"
+  },
+  {
+    "Number": 236,
+    "Question": "Wie viele Mitgliedstaaten hat die EU heute?",
+    "Answers": [
+      "21",
+      "23",
+      "25",
+      "27"
+    ],
+    "Right answer": -1,
+    "Category": "Nationwide"
+  },
+  {
+    "Number": 237,
+    "Question": "2007 wurde das 50-jährige Jubiläum der \"Römischen Verträge\" gefeiert. Was war der Inhalt der Verträge?",
+    "Answers": [
+      "Beitritt Deutschlands zur NATO",
+      "Gründung der Europäischen Wirtschaftsgemeinschaft (EWG)",
+      "Verpflichtung Deutschlands zu Reparationsleistungen",
+      "Festlegung der Oder-Neiße-Linie als Ostgrenze"
+    ],
+    "Right answer": -1,
+    "Category": "Nationwide"
+  },
+  {
+    "Number": 238,
+    "Question": "An welchen Orten arbeitet das Europäische Parlament?",
+    "Answers": [
+      "Paris, London und Den Haag",
+      "Straßburg, Luxemburg und Brüssel",
+      "Rom, Bern und Wien",
+      "Bonn, Zürich und Mailand"
+    ],
+    "Right answer": -1,
+    "Category": "Nationwide"
+  },
+  {
+    "Number": -1,
+    "Question": "[IMAGE]",
+    "Image": "images/image_109.png",
+    "Answers": [],
+    "Right answer": -1,
+    "Category": "Nationwide"
+  },
+  {
+    "Number": 239,
+    "Question": "Durch welche Verträge schloss sich die Bundesrepublik Deutschland mit anderen Staaten zur Europäischen Wirtschaftsgemeinschaft zusammen?",
+    "Answers": [
+      "durch die \"Hamburger Verträge\"",
+      "durch die \"Römischen Verträge\"",
+      "durch die \"Pariser Verträge\"",
+      "durch die \"Londoner Verträge\""
+    ],
+    "Right answer": -1,
+    "Category": "Nationwide"
+  },
+  {
+    "Number": 240,
+    "Question": "Seit wann bezahlt man in Deutschland mit dem Euro in bar?",
+    "Answers": [
+      "1995",
+      "1998",
+      "2002",
+      "2005"
+    ],
+    "Right answer": -1,
+    "Category": "Nationwide"
+  },
+  {
+    "Number": 241,
+    "Question": "Frau Seger bekommt ein Kind. Was muss sie tun, um Elterngeld zu erhalten?",
+    "Answers": [
+      "Sie muss an ihre Krankenkasse schreiben.",
+      "Sie muss einen Antrag bei der Elterngeldstelle stellen.",
+      "Sie muss nichts tun, denn sie bekommt automatisch Elterngeld.",
+      "Sie muss das Arbeitsamt um Erlaubnis bitten."
+    ],
+    "Right answer": -1,
+    "Category": "Nationwide"
+  },
+  {
+    "Number": -1,
+    "Question": "[IMAGE]",
+    "Image": "images/image_110.png",
+    "Answers": [],
+    "Right answer": -1,
+    "Category": "Nationwide"
+  },
+  {
+    "Number": 242,
+    "Question": "Wer entscheidet, ob ein Kind in Deutschland in den Kindergarten geht?",
+    "Answers": [
+      "der Staat",
+      "die Bundesländer",
+      "die Eltern/die Erziehungsberechtigten",
+      "die Schulen"
+    ],
+    "Right answer": -1,
+    "Category": "Nationwide"
+  },
+  {
+    "Number": 243,
+    "Question": "Maik und Sybille wollen mit Freunden an ihrem deutschen Wohnort eine Demonstration auf der Straße abhalten. Was müssen sie vorher tun?  Sie müssen nichts tun. Man darf in Deutschland jederzeit überall demonstrieren. Sie können gar nichts tun, denn Demonstrationen sind in Deutschland grundsätzlich verboten. Maik und Sybille müssen einen neuen Verein gründen, weil nur Vereine demonstrieren dürfen.",
+    "Answers": [
+      "Sie müssen die Demonstration anmelden.",
+      "Sie müssen nichts tun. Man darf in Deutschland jederzeit überall \ndemonstrieren.",
+      "Sie können gar nichts tun, denn Demonstrationen sind in Deutschland \ngrundsätzlich verboten.",
+      "Maik und Sybille müssen einen neuen Verein gründen, weil nur Vereine \ndemonstrieren dürfen."
+    ],
+    "Right answer": -1,
+    "Category": "Nationwide"
+  },
+  {
+    "Number": 244,
+    "Question": "Welchen Schulabschluss braucht man normalerweise, um an einer Universität in Deutschland ein Studium zu beginnen?",
+    "Answers": [
+      "das Abitur",
+      "ein Diplom",
+      "die Prokura",
+      "eine Gesellenprüfung"
+    ],
+    "Right answer": -1,
+    "Category": "Nationwide"
+  },
+  {
+    "Number": -1,
+    "Question": "[IMAGE]",
+    "Image": "images/image_111.png",
+    "Answers": [],
+    "Right answer": -1,
+    "Category": "Nationwide"
+  },
+  {
+    "Number": 245,
+    "Question": "Wer darf in Deutschland nicht als Paar zusammenleben?",
+    "Answers": [
+      "Hans (20 Jahre) und Marie (19 Jahre)",
+      "Tom (20 Jahre) und Klaus (45 Jahre)",
+      "Sofie (35 Jahre) und Lisa (40 Jahre)",
+      "Anne (13 Jahre) und Tim (25 Jahre)"
+    ],
+    "Right answer": -1,
+    "Category": "Nationwide"
+  },
+  {
+    "Number": 246,
+    "Question": "Ab welchem Alter ist man in Deutschland volljährig?",
+    "Answers": [
+      "16",
+      "18",
+      "19",
+      "21"
+    ],
+    "Right answer": -1,
+    "Category": "Nationwide"
+  },
+  {
+    "Number": 247,
+    "Question": "Eine Frau ist schwanger. Sie ist kurz vor und nach der Geburt ihres Kindes vom Gesetz besonders beschützt. Wie heißt dieser Schutz?",
+    "Answers": [
+      "Elternzeit",
+      "Mutterschutz",
+      "Geburtsvorbereitung",
+      "Wochenbett"
+    ],
+    "Right answer": -1,
+    "Category": "Nationwide"
+  },
+  {
+    "Number": -1,
+    "Question": "[IMAGE]",
+    "Image": "images/image_112.png",
+    "Answers": [],
+    "Right answer": -1,
+    "Category": "Nationwide"
+  },
+  {
+    "Number": 249,
+    "Question": "Wer ist in Deutschland hauptsächlich verantwortlich für die Kindererziehung?",
+    "Answers": [
+      "der Staat",
+      "die Eltern",
+      "die Verwandten",
+      "die Schulen"
+    ],
+    "Right answer": -1,
+    "Category": "Nationwide"
+  },
+  {
+    "Number": 250,
+    "Question": "In Deutschland hat man die besten Chancen auf einen gut bezahlten Arbeitsplatz, wenn man …",
+    "Answers": [
+      "katholisch ist.",
+      "gut ausgebildet ist.",
+      "eine Frau ist.",
+      "Mitglied einer Partei ist."
+    ],
+    "Right answer": -1,
+    "Category": "Nationwide"
+  },
+  {
+    "Number": -1,
+    "Question": "[IMAGE]",
+    "Image": "images/image_113.png",
+    "Answers": [],
+    "Right answer": -1,
+    "Category": "Nationwide"
+  },
+  {
+    "Number": 251,
+    "Question": "Wenn man in Deutschland ein Kind schlägt, …",
+    "Answers": [
+      "geht das niemanden etwas an.",
+      "geht das nur die Familie etwas an.",
+      "kann man dafür nicht bestraft werden.",
+      "kann man dafür bestraft werden."
+    ],
+    "Right answer": -1,
+    "Category": "Nationwide"
+  },
+  {
+    "Number": 252,
+    "Question": "In Deutschland … darf man zur gleichen Zeit nur mit einer Partnerin/einem Partner verheiratet sein.",
+    "Answers": [
+      "darf man zur gleichen Zeit nur mit einer Partnerin/einem Partner verheiratet \nsein.",
+      "kann man mehrere Ehepartnerinnen/Ehepartner gleichzeitig haben.",
+      "darf man nicht wieder heiraten, wenn man einmal verheiratet war.",
+      "darf eine Frau nicht wieder heiraten, wenn ihr Mann gestorben ist."
+    ],
+    "Right answer": -1,
+    "Category": "Nationwide"
+  },
+  {
+    "Number": 253,
+    "Question": "Wo müssen Sie sich anmelden, wenn Sie in Deutschland umziehen?",
+    "Answers": [
+      "beim Einwohnermeldeamt",
+      "beim Standesamt",
+      "beim Ordnungsamt",
+      "beim Gewerbeamt"
+    ],
+    "Right answer": -1,
+    "Category": "Nationwide"
+  },
+  {
+    "Number": -1,
+    "Question": "[IMAGE]",
+    "Image": "images/image_114.png",
+    "Answers": [],
+    "Right answer": -1,
+    "Category": "Nationwide"
+  },
+  {
+    "Number": 254,
+    "Question": "In Deutschland dürfen Ehepaare sich scheiden lassen. Meistens müssen sie dazu das \"Trennungsjahr\" einhalten. Was bedeutet das?    Die Ehegatten führen mindestens ein Jahr getrennt ihr eigenes Leben. Danach ist die Scheidung möglich.",
+    "Answers": [
+      "Der Scheidungsprozess dauert ein Jahr.",
+      "Die Ehegatten sind ein Jahr verheiratet, dann ist die Scheidung möglich.",
+      "Das Besuchsrecht für die Kinder gilt ein Jahr.",
+      "Die Ehegatten führen mindestens ein Jahr getrennt ihr eigenes Leben. Danach \nist die Scheidung möglich."
+    ],
+    "Right answer": -1,
+    "Category": "Nationwide"
+  },
+  {
+    "Number": 255,
+    "Question": "Bei Erziehungsproblemen können Eltern in Deutschland Hilfe erhalten vom …",
+    "Answers": [
+      "Ordnungsamt.",
+      "Schulamt.",
+      "Jugendamt.",
+      "Gesundheitsamt."
+    ],
+    "Right answer": -1,
+    "Category": "Nationwide"
+  },
+  {
+    "Number": 256,
+    "Question": "Ein Ehepaar möchte in Deutschland ein Restaurant eröffnen. Was braucht es dazu unbedingt?",
+    "Answers": [
+      "eine Erlaubnis der Polizei",
+      "eine Genehmigung einer Partei",
+      "eine Genehmigung des Einwohnermeldeamts",
+      "eine Gaststättenerlaubnis von der zuständigen Behörde"
+    ],
+    "Right answer": -1,
+    "Category": "Nationwide"
+  },
+  {
+    "Number": -1,
+    "Question": "[IMAGE]",
+    "Image": "images/image_115.png",
+    "Answers": [],
+    "Right answer": -1,
+    "Category": "Nationwide"
+  },
+  {
+    "Number": 257,
+    "Question": "Eine erwachsene Frau möchte in Deutschland das Abitur nachholen. Das kann sie an …",
+    "Answers": [
+      "einer Hochschule.",
+      "einem Abendgymnasium.",
+      "einer Hauptschule.",
+      "einer Privatuniversität."
+    ],
+    "Right answer": -1,
+    "Category": "Nationwide"
+  },
+  {
+    "Number": 258,
+    "Question": "Was darf das Jugendamt in Deutschland?  Es kann ein Kind, das geschlagen wird oder hungern muss, aus der Familie nehmen.",
+    "Answers": [
+      "Es entscheidet, welche Schule das Kind besucht.",
+      "Es kann ein Kind, das geschlagen wird oder hungern muss, aus der Familie \nnehmen.",
+      "Es bezahlt das Kindergeld an die Eltern.",
+      "Es kontrolliert, ob das Kind einen Kindergarten besucht."
+    ],
+    "Right answer": -1,
+    "Category": "Nationwide"
+  },
+  {
+    "Number": 259,
+    "Question": "Das Berufsinformationszentrum BIZ bei der Bundesagentur für Arbeit in Deutschland hilft bei der …",
+    "Answers": [
+      "Rentenberechnung.",
+      "Lehrstellensuche.",
+      "Steuererklärung.",
+      "Krankenversicherung."
+    ],
+    "Right answer": -1,
+    "Category": "Nationwide"
+  },
+  {
+    "Number": -1,
+    "Question": "[IMAGE]",
+    "Image": "images/image_116.png",
+    "Answers": [],
+    "Right answer": -1,
+    "Category": "Nationwide"
+  },
+  {
+    "Number": 260,
+    "Question": "In Deutschland hat ein Kind in der Schule …",
+    "Answers": [
+      "Recht auf unbegrenzte Freizeit.",
+      "Wahlfreiheit für alle Fächer.",
+      "Anspruch auf Schulgeld.",
+      "Anwesenheitspflicht."
+    ],
+    "Right answer": -1,
+    "Category": "Nationwide"
+  },
+  {
+    "Number": 261,
+    "Question": "Ein Mann möchte mit 30 Jahren in Deutschland sein Abitur nachholen. Wo kann er das tun? An …",
+    "Answers": [
+      "einer Hochschule.",
+      "einem Abendgymnasium.",
+      "einer Hauptschule.",
+      "einer Privatuniversität."
+    ],
+    "Right answer": -1,
+    "Category": "Nationwide"
+  },
+  {
+    "Number": 262,
+    "Question": "Was bedeutet in Deutschland der Grundsatz der Gleichbehandlung?  Man darf andere Personen benachteiligen, wenn ausreichende persönliche Gründe hierfür vorliegen.",
+    "Answers": [
+      "Niemand darf z.B. wegen einer Behinderung benachteiligt werden.",
+      "Man darf andere Personen benachteiligen, wenn ausreichende persönliche \nGründe hierfür vorliegen.",
+      "Niemand darf gegen Personen klagen, wenn sie benachteiligt wurden.",
+      "Es ist für alle Gesetz, benachteiligten Gruppen jährlich Geld zu spenden."
+    ],
+    "Right answer": -1,
+    "Category": "Nationwide"
+  },
+  {
+    "Number": -1,
+    "Question": "[IMAGE]",
+    "Image": "images/image_117.png",
+    "Answers": [],
+    "Right answer": -1,
+    "Category": "Nationwide"
+  },
+  {
+    "Number": 263,
+    "Question": "In Deutschland sind Jugendliche ab 14 Jahren strafmündig. Das bedeutet: Jugendliche, die 14 Jahre und älter sind und gegen Strafgesetze verstoßen, …",
+    "Answers": [
+      "werden bestraft.",
+      "werden wie Erwachsene behandelt.",
+      "teilen die Strafe mit ihren Eltern.",
+      "werden nicht bestraft."
+    ],
+    "Right answer": -1,
+    "Category": "Nationwide"
+  },
+  {
+    "Number": 264,
+    "Question": "Zu welchem Fest tragen Menschen in Deutschland bunte Kostüme und Masken?",
+    "Answers": [
+      "am Rosenmontag",
+      "am Maifeiertag",
+      "beim Oktoberfest",
+      "an Pfingsten"
+    ],
+    "Right answer": -1,
+    "Category": "Nationwide"
+  },
+  {
+    "Number": 265,
+    "Question": "Wohin muss man in Deutschland zuerst gehen, wenn man heiraten möchte?",
+    "Answers": [
+      "zum Einwohnermeldeamt",
+      "zum Ordnungsamt",
+      "zur Agentur für Arbeit",
+      "zum Standesamt"
+    ],
+    "Right answer": -1,
+    "Category": "Nationwide"
+  },
+  {
+    "Number": -1,
+    "Question": "[IMAGE]",
+    "Image": "images/image_118.png",
+    "Answers": [],
+    "Right answer": -1,
+    "Category": "Nationwide"
+  },
+  {
+    "Number": 266,
+    "Question": "Wann beginnt die gesetzliche Nachtruhe in Deutschland?",
+    "Answers": [
+      "wenn die Sonne untergeht",
+      "wenn die Nachbarn schlafen gehen",
+      "um 0 Uhr, Mitternacht",
+      "um 22 Uhr"
+    ],
+    "Right answer": -1,
+    "Category": "Nationwide"
+  },
+  {
+    "Number": 267,
+    "Question": "Eine junge Frau in Deutschland, 22 Jahre alt, lebt mit ihrem Freund zusammen. Die Eltern der Frau finden das nicht gut, weil ihnen der Freund nicht gefällt. Was können die Eltern tun?",
+    "Answers": [
+      "Sie müssen die Entscheidung der volljährigen Tochter respektieren.",
+      "Sie haben das Recht, die Tochter in die elterliche Wohnung zurückzuholen.",
+      "Sie können zur Polizei gehen und die Tochter anzeigen.",
+      "Sie suchen einen anderen Mann für die Tochter."
+    ],
+    "Right answer": -1,
+    "Category": "Nationwide"
+  },
+  {
+    "Number": 268,
+    "Question": "Eine junge Frau will den Führerschein machen. Sie hat Angst vor der Prüfung, weil ihre Muttersprache nicht Deutsch ist. Was ist richtig? Sie muss mindestens zehn Jahre in Deutschland leben, bevor sie den Führerschein machen kann.  Sie muss den Führerschein in dem Land machen, in dem man ihre Sprache spricht. Sie kann die Theorie-Prüfung vielleicht in ihrer Muttersprache machen. Es gibt mehr als zehn Sprachen zur Auswahl.",
+    "Answers": [
+      "Sie muss mindestens zehn Jahre in Deutschland leben, bevor sie den \nFührerschein machen kann.",
+      "Wenn sie kein Deutsch kann, darf sie keinen Führerschein haben.",
+      "Sie muss den Führerschein in dem Land machen, in dem man ihre Sprache \nspricht.",
+      "Sie kann die Theorie-Prüfung vielleicht in ihrer Muttersprache machen. Es \ngibt mehr als zehn Sprachen zur Auswahl."
+    ],
+    "Right answer": -1,
+    "Category": "Nationwide"
+  },
+  {
+    "Number": -1,
+    "Question": "[IMAGE]",
+    "Image": "images/image_119.png",
+    "Answers": [],
+    "Right answer": -1,
+    "Category": "Nationwide"
+  },
+  {
+    "Number": 269,
+    "Question": "In Deutschland haben Kinder ab dem Alter von drei Jahren bis zur Ersteinschulung einen Anspruch auf …",
+    "Answers": [
+      "monatliches Taschengeld.",
+      "einen Platz in einem Sportverein.",
+      "einen Kindergartenplatz.",
+      "einen Ferienpass."
+    ],
+    "Right answer": -1,
+    "Category": "Nationwide"
+  },
+  {
+    "Number": 270,
+    "Question": "Die Volkshochschule in Deutschland ist eine Einrichtung …",
+    "Answers": [
+      "für den Religionsunterricht.",
+      "nur für Jugendliche.",
+      "zur Weiterbildung.",
+      "nur für Rentnerinnen und Rentner."
+    ],
+    "Right answer": -1,
+    "Category": "Nationwide"
+  },
+  {
+    "Number": 271,
+    "Question": "Was ist in Deutschland ein Brauch zu Weihnachten?",
+    "Answers": [
+      "bunte Eier verstecken",
+      "einen Tannenbaum schmücken",
+      "sich mit Masken und Kostümen verkleiden",
+      "Kürbisse vor die Tür stellen"
+    ],
+    "Right answer": -1,
+    "Category": "Nationwide"
+  },
+  {
+    "Number": -1,
+    "Question": "[IMAGE]",
+    "Image": "images/image_120.png",
+    "Answers": [],
+    "Right answer": -1,
+    "Category": "Nationwide"
+  },
+  {
+    "Number": 272,
+    "Question": "Welche Lebensform ist in Deutschland nicht erlaubt?",
+    "Answers": [
+      "Mann und Frau sind geschieden und leben mit neuen Partnern zusammen.",
+      "Zwei Frauen leben zusammen.",
+      "Ein alleinerziehender Vater lebt mit seinen zwei Kindern zusammen.",
+      "Ein Mann ist mit zwei Frauen zur selben Zeit verheiratet."
+    ],
+    "Right answer": -1,
+    "Category": "Nationwide"
+  },
+  {
+    "Number": 273,
+    "Question": "Bei Erziehungsproblemen gehen Sie in Deutschland …",
+    "Answers": [
+      "zur Ärztin/zum Arzt.",
+      "zum Gesundheitsamt.",
+      "zum Einwohnermeldeamt.",
+      "zum Jugendamt."
+    ],
+    "Right answer": -1,
+    "Category": "Nationwide"
+  },
+  {
+    "Number": 274,
+    "Question": "Sie haben in Deutschland absichtlich einen Brief geöffnet, der an eine andere Person adressiert ist. Was haben Sie nicht beachtet?",
+    "Answers": [
+      "das Schweigerecht",
+      "das Briefgeheimnis",
+      "die Schweigepflicht",
+      "die Meinungsfreiheit"
+    ],
+    "Right answer": -1,
+    "Category": "Nationwide"
+  },
+  {
+    "Number": -1,
+    "Question": "[IMAGE]",
+    "Image": "images/image_121.png",
+    "Answers": [],
+    "Right answer": -1,
+    "Category": "Nationwide"
+  },
+  {
+    "Number": 275,
+    "Question": "Was braucht man in Deutschland für eine Ehescheidung?",
+    "Answers": [
+      "die Einwilligung der Eltern",
+      "ein Attest einer Ärztin/eines Arztes",
+      "die Einwilligung der Kinder",
+      "die Unterstützung einer Anwältin/eines Anwalts"
+    ],
+    "Right answer": -1,
+    "Category": "Nationwide"
+  },
+  {
+    "Number": 276,
+    "Question": "Was sollten Sie tun, wenn Sie von Ihrer Ansprechpartnerin/Ihrem Ansprechpartner in einer deutschen Behörde schlecht behandelt werden?",
+    "Answers": [
+      "Ich kann nichts tun.",
+      "Ich muss mir diese Behandlung gefallen lassen.",
+      "Ich drohe der Person.",
+      "Ich kann mich bei der Behördenleiterin/beim Behördenleiter beschweren."
+    ],
+    "Right answer": -1,
+    "Category": "Nationwide"
+  },
+  {
+    "Number": 277,
+    "Question": "Eine Frau, die ein zweijähriges Kind hat, bewirbt sich in Deutschland um eine Stelle. Was ist ein Beispiel für Diskriminierung? Sie bekommt die Stelle nur deshalb nicht, weil sie …",
+    "Answers": [
+      "kein Englisch spricht.",
+      "zu hohe Gehaltsvorstellungen hat.",
+      "keine Erfahrungen in diesem Beruf hat.",
+      "Mutter ist."
+    ],
+    "Right answer": -1,
+    "Category": "Nationwide"
+  },
+  {
+    "Number": -1,
+    "Question": "[IMAGE]",
+    "Image": "images/image_122.png",
+    "Answers": [],
+    "Right answer": -1,
+    "Category": "Nationwide"
+  },
+  {
+    "Number": 278,
+    "Question": "Ein Mann im Rollstuhl hat sich auf eine Stelle als Buchhalter beworben. Was ist ein Beispiel für Diskriminierung? Er bekommt die Stelle nur deshalb nicht, weil er …",
+    "Answers": [
+      "im Rollstuhl sitzt.",
+      "keine Erfahrung hat.",
+      "zu hohe Gehaltsvorstellungen hat.",
+      "kein Englisch spricht."
+    ],
+    "Right answer": -1,
+    "Category": "Nationwide"
+  },
+  {
+    "Number": 279,
+    "Question": "In den meisten Mietshäusern in Deutschland gibt es eine \"Hausordnung\". Was steht in einer solchen \"Hausordnung\"? Sie nennt …",
+    "Answers": [
+      "Regeln für die Benutzung öffentlicher Verkehrsmittel.",
+      "alle Mieterinnen und Mieter im Haus.",
+      "Regeln, an die sich alle Bewohnerinnen und Bewohner halten müssen.",
+      "die Adresse des nächsten Ordnungsamtes."
+    ],
+    "Right answer": -1,
+    "Category": "Nationwide"
+  },
+  {
+    "Number": 280,
+    "Question": "Wenn Sie sich in Deutschland gegen einen falschen Steuerbescheid wehren wollen, müssen Sie …",
+    "Answers": [
+      "nichts machen.",
+      "den Bescheid wegwerfen.",
+      "Einspruch einlegen.",
+      "warten, bis ein anderer Bescheid kommt."
+    ],
+    "Right answer": -1,
+    "Category": "Nationwide"
+  },
+  {
+    "Number": -1,
+    "Question": "[IMAGE]",
+    "Image": "images/image_123.png",
+    "Answers": [],
+    "Right answer": -1,
+    "Category": "Nationwide"
+  },
+  {
+    "Number": 281,
+    "Question": "Zwei Freunde wollen in ein öffentliches Schwimmbad in Deutschland. Beide haben eine dunkle Hautfarbe und werden deshalb nicht hineingelassen. Welches Recht wird in dieser Situation verletzt? Das Recht auf …",
+    "Answers": [
+      "Meinungsfreiheit",
+      "Gleichbehandlung",
+      "Versammlungsfreiheit",
+      "Freizügigkeit"
+    ],
+    "Right answer": -1,
+    "Category": "Nationwide"
+  },
+  {
+    "Number": 282,
+    "Question": "Welches Ehrenamt müssen deutsche Staatsbürgerinnen und Staatsbürger übernehmen, wenn sie dazu aufgefordert werden?",
+    "Answers": [
+      "Vereinstrainerin/Vereinstrainer",
+      "Wahlhelferin/Wahlhelfer",
+      "Bibliotheksaufsicht",
+      "Lehrerin/Lehrer"
+    ],
+    "Right answer": -1,
+    "Category": "Nationwide"
+  },
+  {
+    "Number": 283,
+    "Question": "Was tun Sie, wenn Sie eine falsche Rechnung von einer deutschen Behörde bekommen?",
+    "Answers": [
+      "Ich lasse die Rechnung liegen.",
+      "Ich lege Widerspruch bei der Behörde ein.",
+      "Ich schicke die Rechnung an die Behörde zurück.",
+      "Ich gehe mit der Rechnung zum Finanzamt."
+    ],
+    "Right answer": -1,
+    "Category": "Nationwide"
+  },
+  {
+    "Number": -1,
+    "Question": "[IMAGE]",
+    "Image": "images/image_124.png",
+    "Answers": [],
+    "Right answer": -1,
+    "Category": "Nationwide"
+  },
+  {
+    "Number": 284,
+    "Question": "Was man für die Arbeit können muss, ändert sich in Zukunft sehr schnell. Was kann man tun?   Kinder lernen in der Schule alles, was im Beruf wichtig ist. Nach der Schule muss man nicht weiter lernen.",
+    "Answers": [
+      "Es ist egal, was man lernt.",
+      "Erwachsene müssen auch nach der Ausbildung immer weiter lernen.",
+      "Kinder lernen in der Schule alles, was im Beruf wichtig ist. Nach der Schule \nmuss man nicht weiter lernen.",
+      "Alle müssen früher aufhören zu arbeiten, weil sich alles ändert."
+    ],
+    "Right answer": -1,
+    "Category": "Nationwide"
+  },
+  {
+    "Number": 285,
+    "Question": "Frau Frost arbeitet als fest angestellte Mitarbeiterin in einem Büro. Was muss sie nicht von ihrem Gehalt bezahlen?",
+    "Answers": [
+      "Lohnsteuer",
+      "Beiträge zur Arbeitslosenversicherung",
+      "Beiträge zur Renten- und Krankenversicherung",
+      "Umsatzsteuer"
+    ],
+    "Right answer": -1,
+    "Category": "Nationwide"
+  },
+  {
+    "Number": 286,
+    "Question": "Welche Organisation in einer Firma hilft den Arbeitnehmerinnen und Arbeitnehmern bei Problemen mit der Arbeitgeberin/dem Arbeitgeber?",
+    "Answers": [
+      "der Betriebsrat",
+      "die Betriebsprüferin/der Betriebsprüfer",
+      "die Betriebsgruppe",
+      "das Betriebsmanagement"
+    ],
+    "Right answer": -1,
+    "Category": "Nationwide"
+  },
+  {
+    "Number": -1,
+    "Question": "[IMAGE]",
+    "Image": "images/image_125.png",
+    "Answers": [],
+    "Right answer": -1,
+    "Category": "Nationwide"
+  },
+  {
+    "Number": 287,
+    "Question": "Sie möchten bei einer Firma in Deutschland ihr Arbeitsverhältnis beenden. Was müssen Sie beachten?",
+    "Answers": [
+      "die Gehaltszahlungen",
+      "die Arbeitszeit",
+      "die Kündigungsfrist",
+      "die Versicherungspflicht"
+    ],
+    "Right answer": -1,
+    "Category": "Nationwide"
+  },
+  {
+    "Number": 288,
+    "Question": "Woraus begründet sich Deutschlands besondere Verantwortung für Israel?",
+    "Answers": [
+      "aus der Mitgliedschaft in der Europäischen Union (EU)",
+      "aus den nationalsozialistischen Verbrechen gegen Juden",
+      "aus dem Grundgesetz der Bundesrepublik Deutschland",
+      "aus der christlichen Tradition"
+    ],
+    "Right answer": -1,
+    "Category": "Nationwide"
+  },
+  {
+    "Number": -1,
+    "Question": "[IMAGE]",
+    "Image": "images/image_126.png",
+    "Answers": [],
+    "Right answer": -1,
+    "Category": "Nationwide"
+  },
+  {
+    "Number": 289,
+    "Question": "Ein Mann mit dunkler Hautfarbe bewirbt sich um eine Stelle als Kellner in einem Restaurant in Deutschland. Was ist ein Beispiel für Diskriminierung? Er bekommt die Stelle nur deshalb nicht, weil …",
+    "Answers": [
+      "seine Deutschkenntnisse zu gering sind.",
+      "er zu hohe Gehaltsvorstellungen hat.",
+      "er eine dunkle Haut hat.",
+      "er keine Erfahrungen im Beruf hat."
+    ],
+    "Right answer": -1,
+    "Category": "Nationwide"
+  },
+  {
+    "Number": -1,
+    "Question": "[IMAGE]",
+    "Image": "images/image_127.png",
+    "Answers": [],
+    "Right answer": -1,
+    "Category": "Nationwide"
+  },
+  {
+    "Number": 290,
+    "Question": "Sie haben in Deutschland einen Fernseher gekauft. Zu Hause packen Sie den Fernseher aus, doch er funktioniert nicht. Der Fernseher ist kaputt. Was können Sie machen?",
+    "Answers": [
+      "eine Anzeige schreiben",
+      "den Fernseher reklamieren",
+      "das Gerät ungefragt austauschen",
+      "die Garantie verlängern"
+    ],
+    "Right answer": -1,
+    "Category": "Nationwide"
+  },
+  {
+    "Number": 291,
+    "Question": "Warum muss man in Deutschland bei der Steuererklärung aufschreiben, ob man zu einer Kirche gehört oder nicht? Weil … es eine Kirchensteuer gibt, die an die Einkommen- und Lohnsteuer geknüpft ist.",
+    "Answers": [
+      "es eine Kirchensteuer gibt, die an die Einkommen- und Lohnsteuer geknüpft \nist.",
+      "das für die Statistik in Deutschland wichtig ist.",
+      "man mehr Steuern zahlen muss, wenn man nicht zu einer Kirche gehört.",
+      "die Kirche für die Steuererklärung verantwortlich ist."
+    ],
+    "Right answer": -1,
+    "Category": "Nationwide"
+  },
+  {
+    "Number": 292,
+    "Question": "Die Menschen in Deutschland leben nach dem Grundsatz der religiösen Toleranz. Was bedeutet das?",
+    "Answers": [
+      "Es dürfen keine Moscheen gebaut werden.",
+      "Alle Menschen glauben an Gott.",
+      "Jeder kann glauben, was er möchte.",
+      "Der Staat entscheidet, an welchen Gott die Menschen glauben."
+    ],
+    "Right answer": -1,
+    "Category": "Nationwide"
+  },
+  {
+    "Number": -1,
+    "Question": "[IMAGE]",
+    "Image": "images/image_128.png",
+    "Answers": [],
+    "Right answer": -1,
+    "Category": "Nationwide"
+  },
+  {
+    "Number": 293,
+    "Question": "Was ist in Deutschland ein Brauch zu Ostern?",
+    "Answers": [
+      "Kürbisse vor die Tür stellen",
+      "einen Tannenbaum schmücken",
+      "Eier bemalen",
+      "Raketen in die Luft schießen"
+    ],
+    "Right answer": -1,
+    "Category": "Nationwide"
+  },
+  {
+    "Number": 294,
+    "Question": "Pfingsten ist ein …",
+    "Answers": [
+      "christlicher Feiertag.",
+      "deutscher Gedenktag.",
+      "internationaler Trauertag.",
+      "bayerischer Brauch."
+    ],
+    "Right answer": -1,
+    "Category": "Nationwide"
+  },
+  {
+    "Number": 295,
+    "Question": "Welche Religion hat die europäische und deutsche Kultur geprägt?",
+    "Answers": [
+      "der Hinduismus",
+      "das Christentum",
+      "der Buddhismus",
+      "der Islam"
+    ],
+    "Right answer": -1,
+    "Category": "Nationwide"
+  },
+  {
+    "Number": -1,
+    "Question": "[IMAGE]",
+    "Image": "images/image_129.png",
+    "Answers": [],
+    "Right answer": -1,
+    "Category": "Nationwide"
+  },
+  {
+    "Number": 296,
+    "Question": "In Deutschland nennt man die letzten vier Wochen vor Weihnachten …",
+    "Answers": [
+      "den Buß- und Bettag.",
+      "das Erntedankfest.",
+      "die Adventszeit.",
+      "Allerheiligen."
+    ],
+    "Right answer": -1,
+    "Category": "Nationwide"
+  },
+  {
+    "Number": 297,
+    "Question": "Aus welchem Land sind die meisten Migrantinnen und Migranten nach Deutschland gekommen?",
+    "Answers": [
+      "Italien",
+      "Polen",
+      "Marokko",
+      "Türkei"
+    ],
+    "Right answer": -1,
+    "Category": "Nationwide"
+  },
+  {
+    "Number": 298,
+    "Question": "In der DDR lebten vor allem Migrantinnen und Migranten aus …",
+    "Answers": [
+      "Vietnam, Polen, Mosambik.",
+      "Frankreich, Rumänien, Somalia.",
+      "Chile, Ungarn, Simbabwe.",
+      "Nordkorea, Mexiko, Ägypten."
+    ],
+    "Right answer": -1,
+    "Category": "Nationwide"
+  },
+  {
+    "Number": -1,
+    "Question": "[IMAGE]",
+    "Image": "images/image_130.png",
+    "Answers": [],
+    "Right answer": -1,
+    "Category": "Nationwide"
+  },
+  {
+    "Number": 299,
+    "Question": "Ausländische Arbeitnehmerinnen und Arbeitnehmer, die in den 50er und 60er Jahren von der Bundesrepublik Deutschland angeworben wurden, nannte man …",
+    "Answers": [
+      "Schwarzarbeiterinnen/Schwarzarbeiter.",
+      "Gastarbeiterinnen/Gastarbeiter.",
+      "Zeitarbeiterinnen/Zeitarbeiter.",
+      "Schichtarbeiterinnen/Schichtarbeiter."
+    ],
+    "Right answer": -1,
+    "Category": "Nationwide"
+  },
+  {
+    "Number": 300,
+    "Question": "Aus welchem Land kamen die ersten Gastarbeiterinnen und Gastarbeiter in die Bundesrepublik Deutschland?",
+    "Answers": [
+      "Italien",
+      "Spanien",
+      "Portugal",
+      "Türkei"
+    ],
+    "Right answer": -1,
+    "Category": "Nationwide"
+  }
+ 
+]
