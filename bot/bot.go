@@ -24,7 +24,8 @@ type Bot struct {
 	db            *database.DB
 	deepseek      *ai.DeepseekClient
 	questions     []models.Question
-	userQuestions map[int64]int // Maps user IDs to their current question number
+	userQuestions map[int64]int               // Maps user IDs to their current question number
+	recentlyAsked map[int64]map[int]time.Time // Tracks recently asked questions per user
 }
 
 const (
@@ -67,6 +68,7 @@ func New(cfg *config.Config) (*Bot, error) {
 		deepseek:      ai.NewDeepseekClient(cfg.DeepseekAPIKey),
 		questions:     questions,
 		userQuestions: make(map[int64]int),
+		recentlyAsked: make(map[int64]map[int]time.Time),
 	}, nil
 }
 
@@ -464,13 +466,67 @@ func (b *Bot) sendRandomQuestion(chatID int64) {
 		return
 	}
 
-	// Select a random question
-	rand.Seed(time.Now().UnixNano())
-	randomIndex := rand.Intn(len(b.questions))
-	question := b.questions[randomIndex]
+	userID := chatID // In private chats, the Chat ID equals the User ID
+
+	// Initialize recent questions map for this user if needed
+	if _, exists := b.recentlyAsked[userID]; !exists {
+		b.recentlyAsked[userID] = make(map[int]time.Time)
+	}
+
+	var question models.Question
+
+	// Step 1: Try to find a question the user has never answered before
+	unansweredQuestions, err := b.db.GetUnansweredQuestions(userID, b.questions)
+	if err == nil && len(unansweredQuestions) > 0 {
+		// Select a random question from unanswered ones
+		rand.Seed(time.Now().UnixNano())
+		randomIndex := rand.Intn(len(unansweredQuestions))
+		question = unansweredQuestions[randomIndex]
+		log.Printf("Found unanswered question #%d for user %d", question.Number, userID)
+	} else {
+		// Step 2: If all questions have been answered, find questions answered long ago
+		oldQuestions, err := b.db.GetLeastRecentlyAnsweredQuestions(userID, b.questions)
+		if err == nil && len(oldQuestions) > 0 {
+			// Select a question answered long ago, avoiding recently asked ones if possible
+			found := false
+			for _, q := range oldQuestions {
+				// Skip questions asked in the last hour
+				if lastAsked, exists := b.recentlyAsked[userID][q.Number]; !exists || time.Since(lastAsked) > 1*time.Hour {
+					question = q
+					found = true
+					log.Printf("Found old question #%d for user %d, last answered at %v",
+						question.Number, userID, time.Unix(0, 0))
+					break
+				}
+			}
+
+			// If all old questions were recently asked, just pick one
+			if !found && len(oldQuestions) > 0 {
+				rand.Seed(time.Now().UnixNano())
+				randomIndex := rand.Intn(len(oldQuestions))
+				question = oldQuestions[randomIndex]
+				log.Printf("All old questions were recently asked, selected #%d for user %d", question.Number, userID)
+			}
+		} else {
+			// Step 3: Fallback to completely random selection
+			rand.Seed(time.Now().UnixNano())
+			randomIndex := rand.Intn(len(b.questions))
+			question = b.questions[randomIndex]
+			log.Printf("Falling back to random question #%d for user %d", question.Number, userID)
+		}
+	}
+
+	// Record this question as recently asked
+	b.recentlyAsked[userID][question.Number] = time.Now()
+
+	// Clean up old entries in the recently asked map (older than 2 hours)
+	for q, t := range b.recentlyAsked[userID] {
+		if time.Since(t) > 2*time.Hour {
+			delete(b.recentlyAsked[userID], q)
+		}
+	}
 
 	// Store the user's current question
-	userID := chatID // In private chats, the Chat ID equals the User ID
 	b.userQuestions[userID] = question.Number
 
 	// Prepare message text

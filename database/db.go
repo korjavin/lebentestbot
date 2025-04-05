@@ -2,6 +2,7 @@ package database
 
 import (
 	"database/sql"
+	"sort"
 	"time"
 
 	"github.com/korjavin/lebentestbot/models"
@@ -140,6 +141,99 @@ func (db *DB) GetMostFrequentIncorrectQuestions(userID int64, limit int) ([]mode
 			UserID:         userID,
 			QuestionNumber: questionNumber,
 		})
+	}
+
+	return result, nil
+}
+
+// GetUnansweredQuestions returns questions that the user has never answered
+func (db *DB) GetUnansweredQuestions(userID int64, allQuestions []models.Question) ([]models.Question, error) {
+	// Get all question numbers that the user has answered
+	rows, err := db.conn.Query(
+		"SELECT DISTINCT question_number FROM user_activity WHERE user_id = ?",
+		userID)
+	if err != nil {
+		return nil, err
+	}
+	defer rows.Close()
+
+	// Create a set of answered questions
+	answeredQuestions := make(map[int]bool)
+	for rows.Next() {
+		var questionNumber int
+		if err := rows.Scan(&questionNumber); err != nil {
+			return nil, err
+		}
+		answeredQuestions[questionNumber] = true
+	}
+
+	// Filter out questions that have been answered
+	var unansweredQuestions []models.Question
+	for _, question := range allQuestions {
+		if !answeredQuestions[question.Number] {
+			unansweredQuestions = append(unansweredQuestions, question)
+		}
+	}
+
+	return unansweredQuestions, nil
+}
+
+// GetLeastRecentlyAnsweredQuestions returns questions ordered by how long ago they were last answered
+func (db *DB) GetLeastRecentlyAnsweredQuestions(userID int64, allQuestions []models.Question) ([]models.Question, error) {
+	// Get the most recent timestamp for each question
+	rows, err := db.conn.Query(`
+		SELECT question_number, MAX(timestamp) as last_answered
+		FROM user_activity 
+		WHERE user_id = ? 
+		GROUP BY question_number 
+		ORDER BY last_answered ASC`,
+		userID)
+	if err != nil {
+		return nil, err
+	}
+	defer rows.Close()
+
+	// Map of question number to last answered timestamp
+	lastAnswered := make(map[int]int64)
+	for rows.Next() {
+		var questionNumber int
+		var timestamp int64
+		if err := rows.Scan(&questionNumber, &timestamp); err != nil {
+			return nil, err
+		}
+		lastAnswered[questionNumber] = timestamp
+	}
+
+	// Create a map for quick lookup of questions by number
+	questionMap := make(map[int]models.Question)
+	for _, q := range allQuestions {
+		questionMap[q.Number] = q
+	}
+
+	// Create a slice of questions ordered by last answered time
+	type questionWithTime struct {
+		question  models.Question
+		timestamp int64
+	}
+
+	var questionsWithTime []questionWithTime
+
+	// First, add questions that have been answered before, ordered by time
+	for qNum, timestamp := range lastAnswered {
+		if q, exists := questionMap[qNum]; exists {
+			questionsWithTime = append(questionsWithTime, questionWithTime{q, timestamp})
+		}
+	}
+
+	// Sort by timestamp (oldest first)
+	sort.Slice(questionsWithTime, func(i, j int) bool {
+		return questionsWithTime[i].timestamp < questionsWithTime[j].timestamp
+	})
+
+	// Extract just the questions in order
+	result := make([]models.Question, len(questionsWithTime))
+	for i, qwt := range questionsWithTime {
+		result[i] = qwt.question
 	}
 
 	return result, nil
