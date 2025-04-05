@@ -58,11 +58,10 @@ func (c *DeepseekClient) AnalyzeQuestion(question *models.Question) (string, int
 
 	// Construct the prompt
 	prompt := fmt.Sprintf(`
-I have a question from a German language test. Please help me with the following tasks:
+I have a question from a German citizen test. Please help me with the following tasks:
 
 1. Translate the question to English
-2. Determine the correct answer
-3. Explain why this is the correct answer
+2. Determine the correct answer and explain why this is the correct answer
 4. Suggest a mnemonic or memory aid to help remember this fact
 5. If there are challenging German words, explain them and suggest ways to remember them
 
@@ -70,10 +69,8 @@ Question: %s
 
 Answers: %v
 
-Current Answer Index: %d (if -1, it means the correct answer is not known yet)
-
-Please organize your response in clearly labeled sections and be concise.
-`, question.Question, question.Answers, question.RightAnswer)
+Please organize your response in clearly labeled sections and be concise. Answer in plain text.
+`, question.Question, question.Answers)
 
 	// Create request body
 	reqBody := deepseekRequest{

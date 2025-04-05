@@ -366,8 +366,15 @@ func (b *Bot) handleCallback(callback *tgbotapi.CallbackQuery) {
 		userAnswer = question.Answers[answerNum]
 	}
 
-	b.sendMessage(callback.Message.Chat.ID,
-		fmt.Sprintf("Your answer: \"%s\"\n\nAnalyzing...", userAnswer))
+	// Send initial message and store the message ID for later editing
+	initialMsg := fmt.Sprintf("Your answer: \"%s\"\n\nAnalyzing...", userAnswer)
+	sentMsg, err := b.api.Send(tgbotapi.NewMessage(callback.Message.Chat.ID, initialMsg))
+	if err != nil {
+		log.Printf("Error sending initial message: %v", err)
+		return
+	}
+	initialMessageID := sentMsg.MessageID
+	log.Printf("Sent initial message with ID %d", initialMessageID)
 
 	// Launch a goroutine to handle the Deepseek API call without blocking
 	go func() {
@@ -390,17 +397,21 @@ func (b *Bot) handleCallback(callback *tgbotapi.CallbackQuery) {
 			resp, rightAns, err := b.deepseek.AnalyzeQuestion(question)
 			if err != nil {
 				log.Printf("Error calling Deepseek API asynchronously: %v", err)
-				b.sendMessage(callback.Message.Chat.ID,
-					"I couldn't determine the correct answer at this time. Please use /help for more information about this question.")
+				b.editMessage(callback.Message.Chat.ID, initialMessageID,
+					fmt.Sprintf("Your answer: \"%s\"\n\nI couldn't determine the correct answer at this time. Please use /help for more information about this question.", userAnswer))
 				return
 			}
 
 			log.Printf("Received Deepseek analysis for question %d with right answer: %d",
 				questionNum, rightAns)
 
-			// Send the full Deepseek response to the user with no prefix, ensuring markdown rendering
-			b.sendMessage(callback.Message.Chat.ID, resp)
-			log.Printf("Sent full Deepseek response to user (length: %d)", len(resp))
+			// Format the updated message
+			updatedMessage := fmt.Sprintf("Your answer: \"%s\"\n\n%s\n\nUse /next to practice with a new question",
+				userAnswer, resp)
+
+			// Edit the original message with the Deepseek response
+			b.editMessage(callback.Message.Chat.ID, initialMessageID, updatedMessage)
+			log.Printf("Updated message %d with Deepseek response (length: %d)", initialMessageID, len(resp))
 
 			// Cache the response
 			if err := b.db.CacheDeepseekResponse(questionNum, resp, rightAns); err != nil {
@@ -422,31 +433,28 @@ func (b *Bot) handleCallback(callback *tgbotapi.CallbackQuery) {
 			log.Printf("Async result: User's answer for question %d was %v",
 				questionNum, isCorrect)
 
-			// Prepare follow-up message
-			var followUpText string
+			// Prepare correctness indicator
+			var correctnessText string
 			if isCorrect {
-				followUpText = "✅ Based on my analysis, your answer was correct! Well done!\n\nUse /help for a detailed explanation or /next for a new question."
+				correctnessText = "✅ Based on my analysis, your answer was correct!"
 			} else {
 				correctAnswerText := "Unknown"
 				if rightAnswer >= 0 && rightAnswer < len(question.Answers) {
 					correctAnswerText = question.Answers[rightAnswer]
 				}
-				followUpText = fmt.Sprintf("❌ Based on my analysis, the correct answer is: %s\n\nUse /help for a detailed explanation or /next for a new question.", correctAnswerText)
+				correctnessText = fmt.Sprintf("❌ Based on my analysis, the correct answer is: %s", correctAnswerText)
 			}
 
-			// Send the follow-up response
-			b.sendMessage(callback.Message.Chat.ID, followUpText)
-			log.Printf("Sent async analysis result for question %d (took %.2fs total)",
-				questionNum, time.Since(startTime).Seconds())
-		} else if cachedResponse == "" {
-			// If we didn't determine a right answer but we have a response, at least send the response
-			b.sendMessage(callback.Message.Chat.ID,
-				"I couldn't determine with certainty which answer is correct, but you can use /help to see a detailed analysis of this question.")
+			// If we already edited the message with the full response, there's no need to do it again
+			// But if we got a cached response we might need to add the correctness info
+			if cachedResponse != "" && len(cachedResponse) > 0 {
+				updatedMessage := fmt.Sprintf("Your answer: \"%s\"\n\n%s\n\n%s\n\nUse /next to practice with a new question",
+					userAnswer, correctnessText, cachedResponse)
+				b.editMessage(callback.Message.Chat.ID, initialMessageID, updatedMessage)
+				log.Printf("Updated message %d with cached response and correctness info", initialMessageID)
+			}
 		}
 	}()
-
-	log.Printf("Callback handling completed in %.2fs (async analysis continues)",
-		time.Since(startTime).Seconds())
 }
 
 // sendRandomQuestion sends a random question to the user
@@ -524,8 +532,9 @@ func (b *Bot) sendMessage(chatID int64, text string) {
 		strings.Contains(text, "`") {
 		log.Printf("Detected markdown content, setting parse mode to MarkdownV2")
 		// Escape special characters required by Telegram's MarkdownV2
-		escapedText := escapeMarkdown(text)
-		msg.Text = escapedText
+		//escapedText := escapeMarkdown(text)
+
+		msg.Text = text
 		msg.ParseMode = tgbotapi.ModeMarkdownV2
 	} else {
 		msg.ParseMode = tgbotapi.ModeHTML
@@ -594,5 +603,38 @@ func (b *Bot) sendCallbackResponse(callbackID, text string) {
 	callback := tgbotapi.NewCallback(callbackID, text)
 	if _, err := b.api.Request(callback); err != nil {
 		log.Printf("Error sending callback response: %v", err)
+	}
+}
+
+// editMessage edits an existing message
+func (b *Bot) editMessage(chatID int64, messageID int, newText string) {
+	edit := tgbotapi.NewEditMessageText(chatID, messageID, newText)
+
+	// Check if the text appears to be markdown
+	if strings.Contains(newText, "```") ||
+		strings.Contains(newText, "**") ||
+		strings.Contains(newText, "*") ||
+		strings.Contains(newText, "##") ||
+		strings.Contains(newText, "#") ||
+		strings.Contains(newText, "`") {
+		// Escape special characters required by Telegram's MarkdownV2
+		escapedText := escapeMarkdown(newText)
+		edit.Text = escapedText
+		edit.ParseMode = tgbotapi.ModeMarkdownV2
+	} else {
+		edit.ParseMode = tgbotapi.ModeHTML
+	}
+
+	if _, err := b.api.Send(edit); err != nil {
+		log.Printf("Error editing message: %v", err)
+
+		// If editing fails with markdown, try without formatting
+		if edit.ParseMode == tgbotapi.ModeMarkdownV2 {
+			log.Printf("Markdown editing failed, falling back to plain text")
+			plainEdit := tgbotapi.NewEditMessageText(chatID, messageID, newText)
+			if _, err := b.api.Send(plainEdit); err != nil {
+				log.Printf("Plain text edit fallback also failed: %v", err)
+			}
+		}
 	}
 }
